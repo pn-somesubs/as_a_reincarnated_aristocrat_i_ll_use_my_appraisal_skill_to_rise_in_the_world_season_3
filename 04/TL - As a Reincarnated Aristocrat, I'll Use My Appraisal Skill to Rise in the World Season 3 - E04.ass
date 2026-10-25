@@ -1,0 +1,353 @@
+[Script Info]
+Title: pn-SomeSubs - As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,25,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.2,0.5,2,10,10,18,1
+Style: Flashback,Gandhi Sans,25,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,1.2,0.5,2,10,10,18,1
+Style: cr_sign_1,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:10.00,cr_sign_1,sign,0,0,0,,{\fs15\an7\fe162\b\fad(400,400)\bord2\blur5\shad\4c&H000000&\4a&HFF&\fnSweetest Cat Ever}\N{\pos(20,-2)}{\c&HFFFF00&}{\4c&H8485E4&}SomeSub ekip arkadaşı arıyor!\N{\pos(60,63)}{\c&HFFFFFF&}Çevirmen:{\c&HFFFF00&} Umav\N{\pos(60,111)}{\c&HFFFFFF&}Encode:{\c&HFFFF00&} Velnoxy\N{\pos(60,111)}{\c&HFFFFFF&}Redaktör:{\c&HFFFF00&} Umav\N{\c&HFFFFFF&}Discord:{\c&HFFFF00&} discord.gg/somesub
+Dialogue: 0,0:00:00.00,0:00:04.23,cr_sign_1,sign,0,0,0,,{\fad(500,500)\shad0\bord1\blur1\fnArial Black\c&HD6D1D2&\pos(320,292)\3c&H161B1A&}Coumeire Kalesi
+Dialogue: 0,0:00:04.23,0:00:08.98,cr_sign_1,sign,0,0,0,,{\fad(520,480)\fs14\an3\shad1\bord1\fnTimes New Roman\b1\c&HCACAC9&\3c&H302F2E&\4c&H302F2E&\pos(605.83,316.351)}28. Bölüm     {\fs16}Düşmanlıkların Sonu
+Dialogue: 0,0:00:04.89,0:00:08.98,Default,Mireille,0,0,0,,{\an8}70.000 askerin elinden kaçmak \Ngerçekten etkileyici bir başarıydı.
+Dialogue: 0,0:00:08.98,0:00:14.99,Default,Mireille,0,0,0,,Fakat düşman karargâhınızı \Nve orada bıraktığınız erzakları ele geçirdi.
+Dialogue: 0,0:00:14.99,0:00:16.99,Default,Mireille,0,0,0,,Pek iç açıcı bir durum değil.
+Dialogue: 0,0:00:17.53,0:00:19.49,Default,Rietz,0,0,0,,Özür dilerim, Ars-sama.
+Dialogue: 0,0:00:19.80,0:00:23.14,Default,Ars,0,0,0,,H-Hey, nehri o şekilde \Ngeçeceklerini beklemiyorduk.
+Dialogue: 0,0:00:23.14,0:00:28.34,Default,Ars,0,0,0,,Savaşın zorluğuna rağmen bu kadar uzun süre \Ndayanmış olmanızdan ötürü aslında minnettarım.
+Dialogue: 0,0:00:28.67,0:00:33.00,Default,Mireille,0,0,0,,Büyük katalizörlerimizi ve aqua magia'yı alıp kaçmak hiç de kolay bir iş değildi.
+Dialogue: 0,0:00:33.00,0:00:36.51,Default,Mireille,0,0,0,,Onlar olmadan Charlotte-chan büyü yapamaz.
+Dialogue: 0,0:00:36.51,0:00:38.68,Default,Mireille,0,0,0,,Hiç şansımız kalmazdı.
+Dialogue: 0,0:00:38.68,0:00:41.13,Default,Ars,0,0,0,,Şu anda düşman ne planlıyor?
+Dialogue: 0,0:00:41.13,0:00:43.67,Default,Ars,0,0,0,,Sence yakında saldırıya geçerler mi?
+Dialogue: 0,0:00:43.67,0:00:47.98,Default,Rosell,0,0,0,,Hayır, geçiş noktasına aceleyle \Nulaşmak zorunda kaldıkları için.
+Dialogue: 0,0:00:47.98,0:00:51.44,Default,Rosell,0,0,0,,Tüm erzaklarını henüz \NSeitz'den taşıyamamışlardır.
+Dialogue: 0,0:00:51.90,0:00:56.37,Default,Rosell,0,0,0,,Erzakları tamamlanana kadar büyük \Nbir saldırıya geçeceklerini sanmıyorum.
+Dialogue: 0,0:00:56.37,0:00:58.32,Default,Rietz,0,0,0,,Yine de bu an meselesi.
+Dialogue: 0,0:00:58.85,0:01:01.34,Default,Rietz,0,0,0,,Nehri geçmelerine izin verip \Nkarargâhımızı ele geçirmelerini sağlamak...
+Dialogue: 0,0:01:01.34,0:01:03.66,Default,Rietz,0,0,0,,Onlara eşsiz bir fırsat sundu.
+Dialogue: 0,0:01:03.66,0:01:07.16,Default,Rietz,0,0,0,,Aqua magia'yı aldıkları anda \Ntaarruza geçecekler.
+Dialogue: 0,0:01:07.89,0:01:10.06,Default,Ars,0,0,0,,Merak etme, Rietz-san.
+Dialogue: 0,0:01:10.71,0:01:14.84,cr_sign_1,sign,0,0,0,,{\fad(500,500)\shad0\bord1\blur1\fnArial Black\c&HD6D1D2&\pos(320,292)\3c&H161B1A&}Pulreide Bölgesi, Seitz Eyaleti
+Dialogue: 0,0:01:12.25,0:01:15.47,Default,Pham,0,0,0,,{\an8}Aqua magia depolarını sabote etmek mi?
+Dialogue: 0,0:01:16.01,0:01:19.32,Default,Pham,0,0,0,,Seitz'in sihir taşları konusunda o kadar \Nfakir olduğu doğru ki.
+Dialogue: 0,0:01:19.32,0:01:23.49,Default,Pham,0,0,0,,Aqua magia'yı Vasmarque'tan \Nalmak zorundalar.
+Dialogue: 0,0:01:23.49,0:01:26.09,Default,Pham,0,0,0,,Onları topallatmanın en etkili yolu bu.
+Dialogue: 0,0:01:26.09,0:01:28.60,Default,Irving,0,0,0,,Fakat düşman 70.000 kişi!
+Dialogue: 0,0:01:28.96,0:01:31.14,Default,Irving,0,0,0,,Bunu başarmamızın imkânı yok!
+Dialogue: 0,0:01:31.14,0:01:34.78,Default,Pham,0,0,0,,Evet, söylemesi yapmasından kolay.
+Dialogue: 0,0:01:35.29,0:01:38.98,Default,Pham,0,0,0,,Aqua magia'ya olan erişimlerini\Nengellemenin iki yolu var.
+Dialogue: 0,0:01:38.98,0:01:41.52,Default,Pham,0,0,0,,Birincisi, nakliye sırasında saldırmak.
+Dialogue: 0,0:01:41.52,0:01:46.12,Default,Pham,0,0,0,,Fakat bu kadar büyük bir kuvvete karşı \Nbunu tek başımıza yapmamız epey zor olur.
+Dialogue: 0,0:01:46.72,0:01:49.41,Default,Pham,0,0,0,,İkincisi ise depolardayken vurmak.
+Dialogue: 0,0:01:49.41,0:01:53.68,Default,Pham,0,0,0,,Fakat depoları iyi korunuyor \Nve epey fazlalar.
+Dialogue: 0,0:01:53.68,0:01:56.10,Default,Pham,0,0,0,,Hepsini ortadan kaldırmak kolay olmayacak.
+Dialogue: 0,0:01:56.10,0:01:59.85,Default,Irving,0,0,0,,Patron, bu iş gerçekten mümkün mü?
+Dialogue: 0,0:01:59.85,0:02:01.76,Default,Irving,0,0,0,,Belki de teklifi geri çevirmeliyiz.
+Dialogue: 0,0:02:02.18,0:02:05.50,Default,Pham,0,0,0,,Biz artık bağımsız paralı askerler değiliz.
+Dialogue: 0,0:02:05.50,0:02:07.81,Default,Pham,0,0,0,,Ars ne derse onu yaparız.
+Dialogue: 0,0:02:07.81,0:02:12.40,Default,Pham,0,0,0,,Üstelik, yapabileceğimize inanmasaydı\N bunu bizden istemezdi.
+Dialogue: 0,0:02:13.02,0:02:15.90,Default,Pham,0,0,0,,Efendimizin beklentilerini karşılamalıyız.
+Dialogue: 0,0:02:17.13,0:02:20.00,Default,Irving,0,0,0,,Kesinlikle değişmişsin, Patron.
+Dialogue: 0,0:02:21.98,0:02:24.03,Default,Pham,0,0,0,,Aklıma harika bir fikir geldi.
+Dialogue: 0,0:03:55.00,0:03:59.00,cr_sign_1,sign,0,0,0,,{\fad(500,500)\shad0\bord1\blur1\fnArial Black\c&HD6D1D2&\pos(320,292)\3c&H161B1A&}Pulreide Şehri, Pulreide Bölgesi
+Dialogue: 0,0:04:04.26,0:04:08.35,cr_sign_1,sign,0,0,0,,{\fad(480,400)\fs14\shad1\bord1\fnTimes New Roman\b1\c&HC8CCC9&\3c&H232C28&\4c&H232C28&\pos(325,270)}Seitz Ordusu Yetkilisi\N{\fs18} Caesus Lopard
+Dialogue: 0,0:04:04.26,0:04:07.90,Default,Caesus,0,0,0,,{\an8}Bu kadar savaş arasında \Ndüzgün bir mola bile veremiyorum.
+Dialogue: 0,0:04:07.90,0:04:10.52,Default,Caesus,0,0,0,,{\an8}Acaba etrafta hiç genç \Nkız var mı?
+Dialogue: 0,0:04:12.85,0:04:16.73,cr_sign_1,sign,0,0,0,,{\fad(550,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(175,307)}Pham'ın Stratejisi
+Dialogue: 0,0:04:27.46,0:04:29.22,Default,Pham,0,0,0,,Bu yer dolu mu?
+Dialogue: 0,0:04:29.22,0:04:31.96,Default,Caesus,0,0,0,,H-Hayır, buyurun oturun!
+Dialogue: 0,0:04:33.59,0:04:37.21,Default,Caesus,0,0,0,,Vay canına, ne kadar da hoş birisin.
+Dialogue: 0,0:04:37.58,0:04:42.10,Default,Caesus,0,0,0,,Gördüğüm en güzel kız olabilirsin.
+Dialogue: 0,0:04:42.10,0:04:44.21,Default,Pham,0,0,0,,Öyle mi, gerçekten mi?
+Dialogue: 0,0:04:45.62,0:04:47.99,Default,Pham,0,0,0,,Üst katta bir odam var.
+Dialogue: 0,0:04:47.99,0:04:49.72,Default,Pham,0,0,0,,Belki birer kadeh bir şey içeriz?
+Dialogue: 0,0:04:56.08,0:05:00.69,Default,Caesus,0,0,0,,Tanrım, senin gibi bir afetle vakit \Ngeçirebildiğime inanamıyorum.
+Dialogue: 0,0:05:00.69,0:05:03.18,Default,Caesus,0,0,0,,Sanırım herkes şanslı bir molayı hak eder.
+Dialogue: 0,0:05:04.01,0:05:07.95,Default,Caesus,0,0,0,,Beni buraya davet ettiğine göre \Nher şey mübah, değil mi?
+Dialogue: 0,0:05:09.01,0:05:11.10,Default,Caesus,0,0,0,,Bekle, bu da ne?
+Dialogue: 0,0:05:13.58,0:05:15.54,Default,Caesus,0,0,0,,Oradaki de ne?
+Dialogue: 0,0:05:18.29,0:05:20.19,Default,Caesus,0,0,0,,K-Kimsin sen?!
+Dialogue: 0,0:05:20.19,0:05:23.92,Default,Irving,0,0,0,,Şef, bu heriften fazlasıyla \Nbilgi aldık.
+Dialogue: 0,0:05:24.40,0:05:26.18,Default,Caesus,0,0,0,,Bekle, neler oluyor burada?!
+Dialogue: 0,0:05:26.18,0:05:27.81,Default,Caesus,0,0,0,,Siz kim—
+Dialogue: 0,0:05:31.29,0:05:33.53,Default,Pham,0,0,0,,Ellerini çek, aptal.
+Dialogue: 0,0:05:37.63,0:05:39.26,Default,Irving,0,0,0,,İşte bizim patron.
+Dialogue: 0,0:05:39.26,0:05:41.92,Default,Irving,0,0,0,,En çılgın planları sen buluyorsun.
+Dialogue: 0,0:05:41.92,0:05:43.78,Default,Pham,0,0,0,,Elbette bulurum.
+Dialogue: 0,0:05:44.22,0:05:47.20,Default,Pham,0,0,0,,Geri kalanı sana kalmış. İşine bak.
+Dialogue: 0,0:05:47.20,0:05:48.15,Default,Irving,0,0,0,,Emredersiniz!
+Dialogue: 0,0:05:48.53,0:05:51.53,cr_sign_1,sign,0,0,0,,{\fad(500,500)\shad0\bord1\blur1\fnArial Black\c&HD6D1D2&\pos(320,292)\3c&H161B1A&}Pulreide Kalesi, Seitz Eyaleti
+Dialogue: 0,0:05:53.29,0:05:57.00,cr_sign_1,sign,0,0,0,,{\fad(480,400)\fs14\shad1\bord1\fnTimes New Roman\b1\c&HC8CCC9&\3c&H232C28&\4c&H232C28&\pos(320,270)}Seitz Ordusu Lojistik Başkanı\N{\fs18}Ractor Brandoll
+Dialogue: 0,0:05:53.69,0:05:57.00,Default,Ractor,0,0,0,,{\an8}Malzemelerimizi neden yer altında saklayacakmışız?
+Dialogue: 0,0:05:57.45,0:06:00.50,Default,Caesus,0,0,0,,Düşmanın onları hedef almasını önlemek için.
+Dialogue: 0,0:06:01.03,0:06:07.01,Default,Caesus,0,0,0,,Shadow adında bir paralı asker grubu ikmal sitelerimizin etrafında dolanıyor.
+Dialogue: 0,0:06:07.44,0:06:09.35,Default,Ractor,0,0,0,,Paralı asker grubu mu?
+Dialogue: 0,0:06:09.35,0:06:12.00,Default,Ractor,0,0,0,,Fakat depolarımızın güvenliği mükemmel.
+Dialogue: 0,0:06:12.00,0:06:14.08,Default,Ractor,0,0,0,,Üstelik daha yeni nöbetçi ekledim.
+Dialogue: 0,0:06:14.08,0:06:17.19,Default,Ractor,0,0,0,,Bulsalar bile içeri nasıl \Ngireceklerini anlamıyorum.
+Dialogue: 0,0:06:17.19,0:06:20.27,Default,Caesus,0,0,0,,Shadow grubu gölge büyüsü kullanıyor.
+Dialogue: 0,0:06:20.59,0:06:24.94,Default,Caesus,0,0,0,,Sürpriz bir saldırıda tüm ikmal \Nnoktalarımızı koruyamayız.
+Dialogue: 0,0:06:24.94,0:06:27.28,Default,Caesus,0,0,0,,Hızlı hareket etmeliyiz.
+Dialogue: 0,0:06:27.86,0:06:30.87,Default,Caesus,0,0,0,,Genel olarak depo ne kadar büyükse.
+Dialogue: 0,0:06:30.87,0:06:33.47,Default,Caesus,0,0,0,,Saldırıya o kadar açık olur.
+Dialogue: 0,0:06:34.26,0:06:38.54,Default,Caesus,0,0,0,,Ancak malzemeleri yer altına saklarsak, \Nkeşfedilme ihtimalleri daha düşük olur.
+Dialogue: 0,0:06:38.88,0:06:41.86,Default,Caesus,0,0,0,,Birden fazla site oluşturup onları birbirine bağlarsak.
+Dialogue: 0,0:06:41.86,0:06:44.29,Default,Caesus,0,0,0,,Daha verimli ikmal yapabiliriz.
+Dialogue: 0,0:06:45.63,0:06:50.41,Default,Ractor,0,0,0,,Ancak şu anki önceliğimiz \NMissian'a ikmal ulaştırmak.
+Dialogue: 0,0:06:50.41,0:06:51.55,Default,Caesus,0,0,0,,Hayır.
+Dialogue: 0,0:06:51.55,0:06:54.81,Default,Caesus,0,0,0,,Böyle zamanlarda temkinli olmak çok önemlidir.
+Dialogue: 0,0:06:54.81,0:06:58.77,Default,Caesus,0,0,0,,Acele edeceğiz diye saldırıya davetiye çıkarmak \Nbu işin amacına aykırıdır.
+Dialogue: 0,0:06:58.77,0:07:01.19,Default,Ractor,0,0,0,,Kuvvetlerimizin çoğu zaten nehri geçti.
+Dialogue: 0,0:07:01.19,0:07:03.81,Default,Ractor,0,0,0,,Ayıracak ne adamımız ne de vaktimiz var.
+Dialogue: 0,0:07:04.25,0:07:07.07,Default,Caesus,0,0,0,,Toprak büyüsü bu sorunu çözebilir.
+Dialogue: 0,0:07:07.07,0:07:08.71,Default,Ractor,0,0,0,,Toprak büyüsü mü?
+Dialogue: 0,0:07:09.20,0:07:14.94,Default,Ractor,0,0,0,,Anlıyorum. Bu sayede yer altı alanları \Nçok hızlı bir şekilde inşa edilebilir.
+Dialogue: 0,0:07:15.40,0:07:18.86,Default,Ractor,0,0,0,,Fakat bu Aqua magia harcamayacak mı?
+Dialogue: 0,0:07:18.86,0:07:20.29,Default,Caesus,0,0,0,,Ractor-sama.
+Dialogue: 0,0:07:22.43,0:07:24.46,Default,Caesus,0,0,0,,Cephe bu kadar iyi durumdayken.
+Dialogue: 0,0:07:24.46,0:07:27.63,Default,Caesus,0,0,0,,Değeri bilinmeyen lojistikçiler olarak \Nhak ettiğimiz övgü için savaşmalıyız.
+Dialogue: 0,0:07:27.63,0:07:29.80,Default,Caesus,0,0,0,,Yenilikçi düşünce gerektirir.
+Dialogue: 0,0:07:32.31,0:07:34.54,Default,Ractor,0,0,0,,Pekâlâ, yapacağız.
+Dialogue: 0,0:07:35.12,0:07:37.84,Default,Ractor,0,0,0,,Başarılı olursa, seni cömertçe ödüllendireceğim.
+Dialogue: 0,0:07:37.84,0:07:40.98,Default,Caesus,0,0,0,,Minnettarım, efendim.
+Dialogue: 0,0:07:50.19,0:07:53.61,cr_sign_1,sign,0,0,0,,{\fad(550,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(170,307)}İşler Tersine Dönüyor
+Dialogue: 0,0:07:54.74,0:07:58.83,Default,Caesus,0,0,0,,Aynen böyle devam edin! İlerliyorsunuz!
+Dialogue: 0,0:07:59.20,0:08:01.83,Default,Caesus,0,0,0,,Şimdi de doğudaki alanı kazın!
+Dialogue: 0,0:08:03.83,0:08:07.12,Default,Caesus,0,0,0,,Yer altı depolama tesisleri tamamlandı.
+Dialogue: 0,0:08:07.12,0:08:10.60,Default,Caesus,0,0,0,,Düşmanın bunları bulması \Nepey zor olacaktır.
+Dialogue: 0,0:08:10.60,0:08:12.15,Default,Ractor,0,0,0,,İyi iş çıkardın.
+Dialogue: 0,0:08:12.15,0:08:16.30,Default,Ractor,0,0,0,,İkmal hatlarını koruyabilirsek, \Nzaferimiz kesinleşir.
+Dialogue: 0,0:08:16.95,0:08:19.31,Default,Ractor,0,0,0,,Temkinli olmak gerçekten çok önemli.
+Dialogue: 0,0:08:33.58,0:08:35.19,Default,Pham,0,0,0,,Tamamlandı mı?
+Dialogue: 0,0:08:35.19,0:08:38.38,Default,Pham,0,0,0,,Pekâlâ, işi bitirme vakti!
+Dialogue: 0,0:08:38.38,0:08:39.18,Default,Shadow,0,0,0,,Emredersiniz!
+Dialogue: 0,0:08:45.62,0:08:48.31,Default,Pham,0,0,0,,Bütün Aqua magia'yı alın.
+Dialogue: 0,0:08:48.31,0:08:50.26,Default,Pham,0,0,0,,Taşıyamadığınız ne varsa yakın!
+Dialogue: 0,0:08:50.26,0:08:51.46,Default,Shadow,0,0,0,,Emredersiniz, efendim!
+Dialogue: 0,0:08:51.46,0:08:53.47,cr_sign_1,sign,0,0,0,,{\fad(500,1)\shad0\bord1\blur1\fnArial Black\c&HD6D1D2&\pos(320,292)\3c&H161B1A&}Coumeire Kalesi
+Dialogue: 0,0:08:52.72,0:08:53.47,Default,Ars,0,0,0,,{\an8}Ne...
+Dialogue: 0,0:08:53.71,0:08:54.47,Default,Ars,0,0,0,,Ne...
+Dialogue: 0,0:08:54.47,0:08:57.97,Default,Ars,0,0,0,,Bütün bu Aqua magia da nereden çıktı?!
+Dialogue: 0,0:08:57.97,0:09:00.32,Default,Rosell,0,0,0,,{\an8}Vay canına!
+Dialogue: 0,0:08:58.41,0:09:01.24,Default,Rietz,0,0,0,,Shadow'un Seitz ordusundan çaldığını duydum.
+Dialogue: 0,0:09:01.24,0:09:02.76,Default,Ars,0,0,0,,Çaldılar mı?!
+Dialogue: 0,0:09:02.76,0:09:04.85,Default,Pham,0,0,0,,Kolay olmadı doğrusu.
+Dialogue: 0,0:09:07.92,0:09:09.21,Default,Ars,0,0,0,,Pham-san!
+Dialogue: 0,0:09:09.21,0:09:12.61,Default,Pham,0,0,0,,Hepsini buraya getirmek için \Ntüccar kılığına girdik.
+Dialogue: 0,0:09:12.61,0:09:15.11,Default,Ars,0,0,0,,Peki bunu nasıl başardınız?
+Dialogue: 0,0:09:15.50,0:09:17.95,Default,Pham,0,0,0,,Yer altı depolama siteleri kurmalarını sağlayıp.
+Dialogue: 0,0:09:17.95,0:09:21.46,Default,Pham,0,0,0,,Bizde başka yoldan içeri kazdık.
+Dialogue: 0,0:09:22.03,0:09:24.87,Default,Pham,0,0,0,,Sonrası da Aqua magia büfesiydi.
+Dialogue: 0,0:09:25.53,0:09:27.67,Default,Pham,0,0,0,,Ractor sevkiyatı sıkı tutuyordu.
+Dialogue: 0,0:09:27.67,0:09:29.79,Default,Pham,0,0,0,,Fakat yeni fikirlere biraz fazla açıktı.
+Dialogue: 0,0:09:30.46,0:09:34.01,Default,Pham,0,0,0,,Terfi olma arzusu sonu oldu.
+Dialogue: 0,0:09:35.70,0:09:38.93,Default,Pham,0,0,0,,Değerli malzemelerini \Nalınması için tepsi üstünde sundu!
+Dialogue: 0,0:09:39.33,0:09:42.14,Default,Ars,0,0,0,,Stoklarını azaltmakla kalmayıp üstüne çalmışsınız!
+Dialogue: 0,0:09:42.14,0:09:43.43,Default,Ars,0,0,0,,Siz ne tür bir dâhisiniz?!
+Dialogue: 0,0:09:43.43,0:09:44.92,Default,Pham,0,0,0,,Öyleyimdir biraz, evet.
+Dialogue: 0,0:09:46.08,0:09:47.53,Default,Ars,0,0,0,,Özür dilerim.
+Dialogue: 0,0:09:47.53,0:09:50.41,Default,Ars,0,0,0,,Zorluğunu hesaba katmadan \Nsize böyle bir emir verdim.
+Dialogue: 0,0:09:50.41,0:09:54.56,Default,Ars,0,0,0,,Üstelik bütün planı tek başınıza \Nkurmanızı mecbur kıldım.
+Dialogue: 0,0:09:54.56,0:09:55.92,Default,Pham,0,0,0,,Ne diyorsun sen?
+Dialogue: 0,0:09:56.87,0:10:01.17,Default,Pham,0,0,0,,Tek başına halledemediğin pis işleri \Nyapmak bizim görevimiz.
+Dialogue: 0,0:10:01.17,0:10:03.16,Default,Pham,0,0,0,,İstediğin kadar kullan bizi.
+Dialogue: 0,0:10:03.16,0:10:05.45,Default,Pham,0,0,0,,Ne istersen yaparız.
+Dialogue: 0,0:10:05.84,0:10:08.96,Default,Ars,0,0,0,,Pham-san, çok teşekkür ederim!
+Dialogue: 0,0:10:09.41,0:10:15.43,Default,Pham,0,0,0,,Yani böyle büyük bir vurgun için uygun bir ödeme bekleriz!
+Dialogue: 0,0:10:15.43,0:10:17.80,Default,Pham,0,0,0,,Bu iş için bir sürü adamımı kullandım!
+Dialogue: 0,0:10:17.80,0:10:19.71,Default,Ars,0,0,0,,T-Tabii ki!
+Dialogue: 0,0:10:19.71,0:10:22.30,Default,Ars,0,0,0,,Parayı ayarlamam için \Nbana biraz zaman ver!
+Dialogue: 0,0:10:23.24,0:10:26.68,Default,Rosell,0,0,0,,Yine de bu iş gidişatı \Ntamamen lehimize çevirecek.
+Dialogue: 0,0:10:26.68,0:10:31.19,Default,Rietz,0,0,0,,Kaybı keşfettiklerinde kaosa sürüklenecekler.
+Dialogue: 0,0:10:31.81,0:10:35.36,Default,Rietz,0,0,0,,Lojistik birimleri bir süre \Nfelç kalacaktır.
+Dialogue: 0,0:10:35.36,0:10:40.95,Default,Mireille,0,0,0,,Ancak karşımızda bizim hiç bilmediğimiz \Nbir nehir geçidi bulmuş bir ordu var.
+Dialogue: 0,0:10:41.36,0:10:46.70,Default,Mireille,0,0,0,,Göz açıp kapayıncaya kadar yeni bir \Nikmal taşıma sistemi kuracaklardır.
+Dialogue: 0,0:10:46.98,0:10:50.30,Default,Mireille,0,0,0,,Seitz ordusuna vuracaksan, \Nhemen şimdi yapsan iyi olur.
+Dialogue: 0,0:10:50.96,0:10:53.21,cr_sign_1,sign,0,0,0,,{\fad(500,1)\shad0\bord1\blur1\fnArial Black\c&HD6D1D2&\pos(320,292)\3c&H161B1A&}Seitz Kampı, Coumeire Nehri
+Dialogue: 0,0:10:54.36,0:10:58.07,cr_sign_1,Sign,0,0,0,,{\fad(550,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(320,292)}Borotz Heygand
+Dialogue: 0,0:10:54.56,0:10:57.26,Default,Borotz,0,0,0,,{\an8}Burada epey etkileyici \Nbir karargâh kurmuşlar.
+Dialogue: 0,0:10:57.26,0:10:59.58,Default,Borotz,0,0,0,,{\an8}Toprak büyüsü kullanmış olmalılar.
+Dialogue: 0,0:10:59.58,0:11:01.01,Default,Seitz A,0,0,0,,Borotz-sama!
+Dialogue: 0,0:11:01.63,0:11:04.22,Default,Seitz A,0,0,0,,Ractor-sama ve Caesus-sama burada.
+Dialogue: 0,0:11:08.02,0:11:11.44,cr_sign_1,sign,0,0,0,,{\fad(550,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(170,307)}Teknoloji ve Çatışma
+Dialogue: 0,0:11:08.28,0:11:09.89,Default,Borotz,0,0,0,,{\an8}Baskın mı dediniz?
+Dialogue: 0,0:11:10.20,0:11:12.90,Default,Ractor,0,0,0,,{\an8}Yer altında depolanan \Nmalzemelerimiz çalındı.
+Dialogue: 0,0:11:18.85,0:11:19.78,Default,Ractor,0,0,0,,Neler oluyor?
+Dialogue: 0,0:11:19.78,0:11:23.17,Default,Lantorque,0,0,0,,Borotz-sama! \NMagia ateşi altındayız!
+Dialogue: 0,0:11:27.81,0:11:30.54,Default,Borotz,0,0,0,,Depolarımızda ne kadar Aqua magia kaldı?
+Dialogue: 0,0:11:31.39,0:11:33.42,Default,Ractor,0,0,0,,Hepsini kaybettik.
+Dialogue: 0,0:11:33.42,0:11:37.00,Default,Borotz,0,0,0,,Yani elimizde sadece \Nbu kaledekiler mi kaldı?
+Dialogue: 0,0:11:40.10,0:11:41.01,Default,Borotz,0,0,0,,Düşman nerede?
+Dialogue: 0,0:11:41.01,0:11:43.02,Default,Lookout,0,0,0,,Bulamıyorum.
+Dialogue: 0,0:11:43.02,0:11:44.01,Default,Borotz,0,0,0,,Ne?
+Dialogue: 0,0:11:50.58,0:11:52.98,Default,Borotz,0,0,0,,Tepenin arkasından saldırıyorlar.
+Dialogue: 0,0:11:52.98,0:11:54.08,Default,Lantorque,0,0,0,,Ne?!
+Dialogue: 0,0:11:54.08,0:11:57.17,Default,Lantorque,0,0,0,,Fakat bizi görememeleri gerekirdi!
+Dialogue: 0,0:11:57.77,0:12:00.86,Default,Lantorque,0,0,0,,Bizi nasıl bu kadar hassas hedef alabiliyorlar?
+Dialogue: 0,0:12:06.16,0:12:11.49,Default,Rietz,0,0,0,,Böyle küçük bir uçan cihazın \Nbize bu kadar büyük avantaj sağlaması.
+Dialogue: 0,0:12:11.49,0:12:14.20,Default,Shin,0,0,0,,Fikri Ars buldu.
+Dialogue: 0,0:12:14.20,0:12:17.79,Default,Shin,0,0,0,,Beni ilk cepheye çağırdığınızda, \Nne düşündüğünüz hakkında hiçbir fikrim yoktu.
+Dialogue: 0,0:12:18.16,0:12:20.17,Default,Ars,0,0,0,,Bunun için çok teşekkürler, Shin-san.
+Dialogue: 0,0:12:23.54,0:12:28.31,Default,Shin,0,0,0,,Uçan cihazdaki katalizör, \Naltındaki zemine ses büyüsü yayıyor.
+Dialogue: 0,0:12:29.17,0:12:32.06,Default,Shin,0,0,0,,Ses bir şeye çarptığında geri yansıyor.
+Dialogue: 0,0:12:32.91,0:12:36.53,Default,Shin,0,0,0,,Yansıyan ses, kurduğum dönüştürücüye gönderiliyor.
+Dialogue: 0,0:12:36.53,0:12:38.88,Default,Shin,0,0,0,,Böylece o noktanın yüksekliğini öğreniyoruz.
+Dialogue: 0,0:12:38.88,0:12:42.95,Default,Shin,0,0,0,,Güçlü bir okuma bize düşman\N kampının nerede olduğunu gösteriyor.
+Dialogue: 0,0:12:44.64,0:12:45.95,Default,Jil,0,0,0,,Sinyal algılandı!
+Dialogue: 0,0:12:45.95,0:12:50.86,Default,Shin,0,0,0,,Sonra bana sadece sinyalin geldiği \Naçıyı ve yönü hesaplamak kalıyor.
+Dialogue: 0,0:12:50.86,0:12:52.70,Default,Shin,0,0,0,,Burdan sonra işlerini bitiriyoruz.
+Dialogue: 0,0:12:52.70,0:12:56.21,Default,Charlotte,0,0,0,,Forma Igni Erupt!
+Dialogue: 0,0:13:12.13,0:13:13.35,Default,Jil,0,0,0,,Vurdu valla!
+Dialogue: 0,0:13:14.31,0:13:17.73,Default,Charlotte,0,0,0,,Sıradaki! \NDaha fazla Aqua getirin!
+Dialogue: 0,0:13:18.47,0:13:21.38,Default,Rietz,0,0,0,,Bu tepenin arkasından bizi göremiyorlar,
+Dialogue: 0,0:13:21.38,0:13:26.40,Default,Rietz,0,0,0,,Fakat bu yüksek açılı atışlarla \nonları uzaktan vurabiliyoruz.
+Dialogue: 0,0:13:26.82,0:13:29.16,Default,Rietz,0,0,0,,İşte hava kuvvetlerinin gücü budur.
+Dialogue: 0,0:13:29.71,0:13:32.16,Default,Rietz,0,0,0,,Bu teknoloji bildiğimiz \Nher şeyi altüst ediyor.
+Dialogue: 0,0:13:32.16,0:13:34.49,Default,Rietz,0,0,0,,Bu savaşta bir devrim!
+Dialogue: 0,0:13:41.67,0:13:43.08,Default,Borotz,0,0,0,,Lantorque.
+Dialogue: 0,0:13:43.08,0:13:46.09,Default,Borotz,0,0,0,,Burada kalırsak sadece Aqua magia harcamış oluruz.
+Dialogue: 0,0:13:46.09,0:13:48.08,Default,Borotz,0,0,0,,Bu karargâhı terk edelim.
+Dialogue: 0,0:13:48.08,0:13:49.80,Default,Borotz,0,0,0,,Tüm kuvvetlerimizi Seitz'e geri çekelim.
+Dialogue: 0,0:13:50.14,0:13:51.16,Default,Lantorque,0,0,0,,Fakat efendim.
+Dialogue: 0,0:13:51.16,0:13:53.57,Default,Borotz,0,0,0,,Acele edin. Sadece ihtiyacımız olanları alın.
+Dialogue: 0,0:13:53.57,0:13:55.62,Default,Borotz,0,0,0,,Silahları ve erzakları arkada bırakın.
+Dialogue: 0,0:13:55.62,0:13:56.74,Default,Lantorque,0,0,0,,Emin misiniz?!
+Dialogue: 0,0:13:56.74,0:13:58.94,Default,Lantorque,0,0,0,,Bu karargâhı onlardan aldıktan sonra mı?
+Dialogue: 0,0:13:59.31,0:14:02.78,Default,Borotz,0,0,0,,Önemli değil. Bu sadece \Ngeçici bir geri çekilme.
+Dialogue: 0,0:14:03.48,0:14:06.19,Default,Borotz,0,0,0,,İstediğimiz kadar tekrar geri alırız.
+Dialogue: 0,0:14:07.25,0:14:10.77,Default,Lantorque,0,0,0,,O halde Borotz-sama, \Nbizden önce nehrin karşısına geçin.
+Dialogue: 0,0:14:10.77,0:14:13.70,Default,Lantorque,0,0,0,,Artçı birlikleri ben yöneteceğim.
+Dialogue: 0,0:14:16.88,0:14:17.96,Default,Lantorque,0,0,0,,Borotz-sama?
+Dialogue: 0,0:14:19.99,0:14:23.25,Default,Borotz,0,0,0,,{\i1}Grenda'ya hizmet ettiğim tüm bu yıllar boyunca.
+Dialogue: 0,0:14:23.25,0:14:29.73,Default,Borotz,0,0,0,,{\i1}Onun vali olmasının benim çabalarımın \Nbir meyvesi olduğuna kibirle inanmıştım.
+Dialogue: 0,0:14:29.73,0:14:30.76,Default,Borotz,0,0,0,,{\i1}Oysa ki...
+Dialogue: 0,0:14:30.76,0:14:36.89,Flashback,Grenda,0,0,0,,Canarre'ı işgal edip Ars Louvent'ı \Nkendi ellerimle almak istiyorum!
+Dialogue: 0,0:14:40.48,0:14:42.66,Default,Lantorque,0,0,0,,Geri kalanı bana bırakın, efendim!
+Dialogue: 0,0:14:45.13,0:14:46.07,Default,Borotz,0,0,0,,Hayır.
+Dialogue: 0,0:14:50.43,0:14:55.34,Default,Borotz,0,0,0,,İlerleyişlerini bizzat ben durduracağım.
+Dialogue: 0,0:14:57.83,0:14:58.84,Default,Canarre A,0,0,0,,{\an8}Ars-sama!
+Dialogue: 0,0:14:56.33,0:14:59.33,cr_sign_1,sign,0,0,0,,{\fad(550,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(170,307)}Ani Sel
+Dialogue: 0,0:15:00.01,0:15:03.92,Default,Canarre A,0,0,0,,Seitz'e geri geçmeye başladılar.
+Dialogue: 0,0:15:05.07,0:15:07.09,Default,Ars,0,0,0,,Beklediğimden de hızlılar.
+Dialogue: 0,0:15:07.55,0:15:11.37,Default,Rosell,0,0,0,,Geri çekilmekten başka \Npek fazla seçenekleri yoktu.
+Dialogue: 0,0:15:11.37,0:15:15.76,Default,Rosell,0,0,0,,Fakat bu kararı bu kadar hızlı \Nalabilmeleri yine de etkileyici.
+Dialogue: 0,0:15:15.76,0:15:18.66,Default,Mireille,0,0,0,,Bizim tarafın Vasmarque ile de \Nbaşa çıkmak zorunda olduğunu biliyorlar.
+Dialogue: 0,0:15:18.66,0:15:23.64,Default,Mireille,0,0,0,,Bu yüzden uzayan bir çatışma \Ncanımızı yakacak olan şey.
+Dialogue: 0,0:15:23.64,0:15:27.19,Default,Mireille,0,0,0,,İyi misin, ufaklık? Karşımızda bir dâhi var.
+Dialogue: 0,0:15:27.19,0:15:27.73,Default,Ars,0,0,0,,Evet.
+Dialogue: 0,0:15:28.32,0:15:31.02,Default,Ars,0,0,0,,İkiniz sayesinde bunu öngörebildik.
+Dialogue: 0,0:15:33.59,0:15:35.24,Default,Borotz,0,0,0,,Geri çekilme nasıl gidiyor?
+Dialogue: 0,0:15:35.96,0:15:39.79,Default,Seitz B,0,0,0,,Buradan ve çevredeki orman kampından \Nyaklaşık 30.000 kişi geçti.
+Dialogue: 0,0:15:39.79,0:15:41.37,Default,Seitz B,0,0,0,,10.000 kişi şu anda geçiyor.
+Dialogue: 0,0:15:41.37,0:15:44.37,Default,Seitz B,0,0,0,,25.000 kişi ise burada emirbekliyor.
+Dialogue: 0,0:15:44.37,0:15:48.28,Default,Borotz,0,0,0,,O halde kalanlara geçişe \Nhazırlanmalarını söyleyin.
+Dialogue: 0,0:15:48.28,0:15:49.18,Default,Seitz B,0,0,0,,Emredersiniz, efendim.
+Dialogue: 0,0:15:50.95,0:15:54.11,Default,Borotz,0,0,0,,İkinizin de derhal Seitz'e geçmesini istiyorum.
+Dialogue: 0,0:15:54.11,0:15:59.70,Default,Borotz,0,0,0,,Pulreide Kalesi'ne haber verin ve \Nyeni bir operasyon için hazırlıklara başlayın.
+Dialogue: 0,0:15:59.70,0:16:00.52,Default,Ractor/Caesus,0,0,0,,Emredersiniz!
+Dialogue: 0,0:16:00.88,0:16:02.68,Default,Ractor,0,0,0,,Şansınız bol olsun, efendim!
+Dialogue: 0,0:16:03.80,0:16:07.40,Default,Borotz,0,0,0,,Bekleyin, buraya at sırtında mı geldiniz?
+Dialogue: 0,0:16:08.12,0:16:08.94,Default,Ractor,0,0,0,,Ne?
+Dialogue: 0,0:16:08.94,0:16:10.78,Default,Ractor,0,0,0,,Evet, öyle geldik, efendim...
+Dialogue: 0,0:16:11.37,0:16:13.81,Default,Borotz,0,0,0,,Nehri ilk geçtiğimizde.
+Dialogue: 0,0:16:13.81,0:16:16.92,Default,Borotz,0,0,0,,At sırtındayken bile \Nsu uyluklarımıza kadar geliyordu.
+Dialogue: 0,0:16:17.45,0:16:20.71,Default,Borotz,0,0,0,,Su seviyesi nasıl bu kadar düşebilir?
+Dialogue: 0,0:16:20.71,0:16:21.71,Default,Borotz,0,0,0,,İmkânsız!
+Dialogue: 0,0:16:24.71,0:16:26.02,Default,Musia,0,0,0,,Forma...
+Dialogue: 0,0:16:27.85,0:16:30.09,Default,Musia,0,0,0,,Tera Fragilis!
+Dialogue: 0,0:16:33.46,0:16:35.47,Default,Seitz C,0,0,0,,Bu da ne?!
+Dialogue: 0,0:16:37.71,0:16:39.17,Default,Seitz C,0,0,0,,Ani bir sel!
+Dialogue: 0,0:16:47.28,0:16:50.01,Default,Ars,0,0,0,,Düşman ordusunun çoğunu kaçmaya zorladıktan sonra.
+Dialogue: 0,0:16:50.01,0:16:54.30,Default,Ars,0,0,0,,Ana kuvvetlerinden ayırmak için \Nnehrin suyunu salıverdik.
+Dialogue: 0,0:16:54.30,0:16:56.32,Default,Musia,0,0,0,,B-Başardım!
+Dialogue: 0,0:16:56.32,0:17:00.60,Default,Ars,0,0,0,,Kampta kalan 20.000 askerlerinin \Nilerlemekten başka çaresi kalmayacak.
+Dialogue: 0,0:17:02.32,0:17:05.96,Default,Ars,0,0,0,,Son görevimiz kalan bu kuvveti yok etmek.
+Dialogue: 0,0:17:06.35,0:17:09.84,Default,Ars,0,0,0,,Eğer kazanırsak, Canarre Ordusu'nun \Nzaferi kesinleşmiş olur.
+Dialogue: 0,0:17:09.84,0:17:14.05,Default,Ars,0,0,0,,Şimdiye kadarki savaş \Ngenerallerin bir akıl savaşıydı.
+Dialogue: 0,0:17:14.05,0:17:17.45,Default,Ars,0,0,0,,Fakat sonunda iş güç ile gücün \Nçarpışmasına kalıyor.
+Dialogue: 0,0:17:17.45,0:17:19.93,Default,Ars,0,0,0,,İki ordunun birbirine çarpışması!
+Dialogue: 0,0:17:21.43,0:17:24.81,cr_sign_1,sign,0,0,0,,{\fad(550,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(170,307)}Generallerin Savaşı
+Dialogue: 0,0:17:31.83,0:17:34.70,Default,Borotz,0,0,0,,Mükemmel taktiklerini kutlarım.
+Dialogue: 0,0:17:34.70,0:17:39.82,Default,Borotz,0,0,0,,Ve hepsinden daha korkunç olanı da \Nbunu gerçekleştiren düşman generali.
+Dialogue: 0,0:17:40.28,0:17:42.20,Default,Borotz,0,0,0,,Ars Louvent.
+Dialogue: 0,0:17:42.89,0:17:45.36,Default,Borotz,0,0,0,,Son savaş bu, askerler!
+Dialogue: 0,0:17:45.36,0:17:47.67,Default,Borotz,0,0,0,,Düşman generalinin kafasını alın!
+Dialogue: 0,0:17:48.23,0:17:49.75,Default,Ars,0,0,0,,Saldırın!
+Dialogue: 0,0:18:02.14,0:18:04.56,Default,Rietz,0,0,0,,Canarre topraklarını koruyun!
+Dialogue: 0,0:18:08.90,0:18:10.94,Default,Seitz D,0,0,0,,Komutan Borotz! Bu gidişle—
+Dialogue: 0,0:18:15.42,0:18:18.91,Default,Borotz,0,0,0,,Bütün yedek birlikler, peşimden gelin!
+Dialogue: 0,0:18:19.54,0:18:21.90,Default,Canarre B,0,0,0,,Komutan Rietz, düşman üzerimize saldırıyor!
+Dialogue: 0,0:18:23.88,0:18:25.93,Default,Rietz,0,0,0,,Onları uzak tutun!
+Dialogue: 0,0:18:29.42,0:18:31.38,Default,Lantorque,0,0,0,,Hiçbir yere gidemezsin!
+Dialogue: 0,0:18:31.38,0:18:32.13,Default,Rietz,0,0,0,,Ars-sama!
+Dialogue: 0,0:18:33.42,0:18:34.42,Default,Borotz,0,0,0,,O mu?
+Dialogue: 0,0:18:34.85,0:18:36.30,Default,Borotz,0,0,0,,Şu çocuk mu?!
+Dialogue: 0,0:18:37.10,0:18:39.38,Default,Borotz,0,0,0,,Ars Louvent!
+Dialogue: 0,0:18:39.38,0:18:42.35,Default,Borotz,0,0,0,,Kafan benimdir!
+Dialogue: 0,0:18:58.99,0:19:00.11,Default,Rietz,0,0,0,,Ars-sama!
+Dialogue: 0,0:19:02.14,0:19:04.62,Default,Rietz,0,0,0,,Sağlık ekibini çağırın! Çabuk olun!
+Dialogue: 0,0:19:05.39,0:19:07.62,Default,Seitz,0,0,0,,Borotz-sama düştü!
+Dialogue: 0,0:19:14.64,0:19:16.21,Default,Seitz E,0,0,0,,Bu saldırı başarısız oldu!
+Dialogue: 0,0:19:16.21,0:19:17.50,Default,Seitz E,0,0,0,,Geri çekilin!
+Dialogue: 0,0:19:18.63,0:19:19.59,Default,Borotz,0,0,0,,Henüz değil...
+Dialogue: 0,0:19:20.50,0:19:22.84,Default,Borotz,0,0,0,,Şu kafasını alabilirsem...
+Dialogue: 0,0:19:25.35,0:19:27.22,Default,Lantorque,0,0,0,,Borotz-sama!
+Dialogue: 0,0:19:27.55,0:19:29.03,Default,Lantorque,0,0,0,,Faydası yok!
+Dialogue: 0,0:19:29.03,0:19:30.39,Default,Lantorque,0,0,0,,Geri çekilelim!
+Dialogue: 0,0:19:31.92,0:19:33.40,Default,Lantorque,0,0,0,,Borotz-sama!
+Dialogue: 0,0:19:35.52,0:19:36.44,Default,Rietz,0,0,0,,Ars-sama!
+Dialogue: 0,0:19:36.44,0:19:38.25,Default,Canarre C,0,0,0,,Düşman generali geri çekildi!
+Dialogue: 0,0:19:38.25,0:19:39.91,Default,Rietz,0,0,0,,Braham! Peşlerinden gidin!
+Dialogue: 0,0:19:39.91,0:19:40.95,Default,Braham,0,0,0,,Emredersiniz!
+Dialogue: 0,0:19:40.95,0:19:43.04,Default,Rietz,0,0,0,,Sağlık ekibi nerede?!
+Dialogue: 0,0:19:43.04,0:19:44.23,Default,Ars,0,0,0,,Rietz-san...
+Dialogue: 0,0:19:44.23,0:19:47.41,Default,Rietz,0,0,0,,Ars-sama, kıpırdamayın! Yaranız...
+Dialogue: 0,0:19:47.89,0:19:50.04,Default,Ars,0,0,0,,İyiyim.
+Dialogue: 0,0:19:53.08,0:19:54.14,Default,Rietz,0,0,0,,Bu da...
+Dialogue: 0,0:20:01.66,0:20:04.65,Default,Narration,0,0,0,,{\i1}Ve böylece Canarre'ı savunma savaşı.
+Dialogue: 0,0:20:04.65,0:20:08.22,Default,Narration,0,0,0,,{\i1}28.000'e karşı 80.000 gibi devasa bir dezavantajla \Nbaşlanmasına rağmen.
+Dialogue: 0,0:20:08.99,0:20:14.69,Default,Narration,0,0,0,,{\i1}Ars ve adamlarının büyük cesareti ve \Nbirlik duygusu sayesinde kazanıldı.
+Dialogue: 0,0:20:15.03,0:20:17.32,Default,Charlotte,0,0,0,,Musia, harika iş çıkardın!
+Dialogue: 0,0:20:17.73,0:20:20.96,Default,Rosell,0,0,0,,Gerçekten kazandığımıza inanamıyorum!
+Dialogue: 0,0:20:21.69,0:20:24.16,Default,Doctor,0,0,0,,İyi görünüyor.
+Dialogue: 0,0:20:24.16,0:20:26.70,Default,Doctor,0,0,0,,Hemen göreve dönebilirsiniz.
+Dialogue: 0,0:20:26.70,0:20:28.45,Default,Ars,0,0,0,,Teşekkür ederim.
+Dialogue: 0,0:20:29.70,0:20:31.20,Default,Rietz,0,0,0,,Çok sevindim.
+Dialogue: 0,0:20:32.18,0:20:36.86,Default,Rietz,0,0,0,,Sizi kaybetseydim,  Ars-sama, Licia-sama'nın yüzüne asla bakamazdım.
+Dialogue: 0,0:20:37.60,0:20:41.97,Default,Rietz,0,0,0,,Ve rahmetli babanıza, Raven-sama'ya \Nverdiğim sözü çiğnemiş olurdum.
+Dialogue: 0,0:20:42.66,0:20:44.72,Default,Rietz,0,0,0,,Ve ben... kendim...
+Dialogue: 0,0:20:44.72,0:20:48.10,Default,Ars,0,0,0,,Rietz-san, seni endişelendirdiğim için özür dilerim.
+Dialogue: 0,0:20:50.31,0:20:53.23,Default,Ars,0,0,0,,Fakat bunu bana veren sensin.
+Dialogue: 0,0:20:54.11,0:20:57.48,Default,Ars,0,0,0,,Beni güvende tutacağını biliyordum.
+Dialogue: 0,0:21:12.00,0:21:15.35,Default,Borotz,0,0,0,,{\i1}Korkunç bir büyücü birliği...
+Dialogue: 0,0:21:15.35,0:21:19.29,Default,Borotz,0,0,0,,{\i1}Savaş anlayışımızı altüst eden gizemli saldırılar...
+Dialogue: 0,0:21:19.29,0:21:21.19,Default,Borotz,0,0,0,,{\i1}Mükemmel subaylar ve askerler...
+Dialogue: 0,0:21:21.19,0:21:25.36,Default,Borotz,0,0,0,,{\i1}Ve onlardan yararlanmak için yapılan tüm stratejiler...
+Dialogue: 0,0:21:26.18,0:21:29.98,Default,Borotz,0,0,0,,{\i1}Vali tamamen Ars Louvent'a odaklanmış durumda.
+Dialogue: 0,0:21:29.98,0:21:32.78,Default,Borotz,0,0,0,,{\i1}Fakat mesele sadece o değil!
+Dialogue: 0,0:21:32.78,0:21:35.85,Default,Borotz,0,0,0,,{\i1}Hizmetindeki herkes başka bir seviyede!
+Dialogue: 0,0:21:36.34,0:21:38.64,Default,Borotz,0,0,0,,{\i1}Onu yaşatmamalıyız.
+Dialogue: 0,0:21:38.64,0:21:41.02,Default,Borotz,0,0,0,,{\i1}Vali için bir tehdit haline gelecektir...
+Dialogue: 0,0:21:41.02,0:21:43.86,Default,Borotz,0,0,0,,{\i1}Hayır, tüm Seitz için!
+Dialogue: 0,0:21:44.36,0:21:46.24,Default,Borotz,0,0,0,,{\i1}Ve bir gün...
+Dialogue: 0,0:21:47.08,0:21:54.01,Default,Borotz,0,0,0,,{\i1}tüm topraklar üzerinde inanılmaz bir güç \Netkisi kurabilecek bir adam olabilir.
+Dialogue: 0,0:23:26.08,0:23:27.80,Default,Charlotte,0,0,0,,Savaş bitti!
+Dialogue: 0,0:23:27.80,0:23:30.02,Default,Charlotte,0,0,0,,Herkesle birlikte tatile gidelim!
+Dialogue: 0,0:23:30.02,0:23:31.57,Default,Rietz,0,0,0,,Şaka yapıyorsun herhalde.
+Dialogue: 0,0:23:31.57,0:23:33.51,Default,Ars,0,0,0,,Tatil mi? Olur yapalım!
+Dialogue: 0,0:23:33.51,0:23:35.78,Default,Rietz,0,0,0,,Elbette! Tazelenmek önemlidir!
+Dialogue: 0,0:23:35.78,0:23:37.54,Default,Charlotte,0,0,0,,Seni pislik...
+Dialogue: 0,0:23:37.54,0:23:40.02,Default,Ars,0,0,0,,Gelecek Bölüm: "Vasmarque'ın Sonu."
+Dialogue: 0,0:00:00.00,0:00:00.00,cr_sign_1,Sign,0,0,0,,{\fad(480,1)\fs12\an3\shad1\bord1\fnTimes New Roman\b1\c&HC8CCC9&\3c&H232C28&\4c&H232C28&\fs14\pos(605,165.957)}Gelecek Bölüm     {\fs16}Vasmarque'ın Sonu
