@@ -13,13 +13,9 @@ LayoutResY: 360
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Gandhi Sans,25,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.2,0.5,2,10,10,18,1
 Style: Flashback,Gandhi Sans,25,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,1.2,0.5,2,10,10,18,1
-Style: cr_sign_1,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,18,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:10.00,cr_sign_1,sign,0,0,0,,{\fs15\an7\fe162\b\fad(400,400)\bord2\blur5\shad\4c&H000000&\4a&HFF&\fnSweetest Cat Ever}\N{\pos(20,-2)}{\c&HFFFF00&}{\4c&H8485E4&}SomeSub ekip arkadaşı arıyor!\N{\pos(60,63)}{\c&HFFFFFF&}Çevirmen:{\c&HFFFF00&} Umav\N{\pos(60,111)}{\c&HFFFFFF&}Encode:{\c&HFFFF00&} Velnoxy\N{\pos(60,111)}{\c&HFFFFFF&}Redaktör:{\c&HFFFF00&} Umav\N{\c&HFFFFFF&}Discord:{\c&HFFFF00&} discord.gg/somesub
-Dialogue: 0,0:00:00.00,0:00:04.23,cr_sign_1,sign,0,0,0,,{\fad(500,500)\shad0\bord1\blur1\fnArial Black\c&HD6D1D2&\pos(320,292)\3c&H161B1A&}Coumeire Kalesi
-Dialogue: 0,0:00:04.23,0:00:08.98,cr_sign_1,sign,0,0,0,,{\fad(520,480)\fs14\an3\shad1\bord1\fnTimes New Roman\b1\c&HCACAC9&\3c&H302F2E&\4c&H302F2E&\pos(605.83,316.351)}28. Bölüm     {\fs16}Düşmanlıkların Sonu
 Dialogue: 0,0:00:04.89,0:00:08.98,Default,Mireille,0,0,0,,{\an8}70.000 askerin elinden kaçmak \Ngerçekten etkileyici bir başarıydı.
 Dialogue: 0,0:00:08.98,0:00:14.99,Default,Mireille,0,0,0,,Fakat düşman karargâhınızı \Nve orada bıraktığınız erzakları ele geçirdi.
 Dialogue: 0,0:00:14.99,0:00:16.99,Default,Mireille,0,0,0,,Pek iç açıcı bir durum değil.
@@ -39,7 +35,6 @@ Dialogue: 0,0:00:58.85,0:01:01.34,Default,Rietz,0,0,0,,Nehri geçmelerine izin v
 Dialogue: 0,0:01:01.34,0:01:03.66,Default,Rietz,0,0,0,,Onlara eşsiz bir fırsat sundu.
 Dialogue: 0,0:01:03.66,0:01:07.16,Default,Rietz,0,0,0,,Aqua magia'yı aldıkları anda \Ntaarruza geçecekler.
 Dialogue: 0,0:01:07.89,0:01:10.06,Default,Ars,0,0,0,,Merak etme, Rietz-san.
-Dialogue: 0,0:01:10.71,0:01:14.84,cr_sign_1,sign,0,0,0,,{\fad(500,500)\shad0\bord1\blur1\fnArial Black\c&HD6D1D2&\pos(320,292)\3c&H161B1A&}Pulreide Bölgesi, Seitz Eyaleti
 Dialogue: 0,0:01:12.25,0:01:15.47,Default,Pham,0,0,0,,{\an8}Aqua magia depolarını sabote etmek mi?
 Dialogue: 0,0:01:16.01,0:01:19.32,Default,Pham,0,0,0,,Seitz'in sihir taşları konusunda o kadar \Nfakir olduğu doğru ki.
 Dialogue: 0,0:01:19.32,0:01:23.49,Default,Pham,0,0,0,,Aqua magia'yı Vasmarque'tan \Nalmak zorundalar.
@@ -61,11 +56,8 @@ Dialogue: 0,0:02:07.81,0:02:12.40,Default,Pham,0,0,0,,Üstelik, yapabileceğimiz
 Dialogue: 0,0:02:13.02,0:02:15.90,Default,Pham,0,0,0,,Efendimizin beklentilerini karşılamalıyız.
 Dialogue: 0,0:02:17.13,0:02:20.00,Default,Irving,0,0,0,,Kesinlikle değişmişsin, Patron.
 Dialogue: 0,0:02:21.98,0:02:24.03,Default,Pham,0,0,0,,Aklıma harika bir fikir geldi.
-Dialogue: 0,0:03:55.00,0:03:59.00,cr_sign_1,sign,0,0,0,,{\fad(500,500)\shad0\bord1\blur1\fnArial Black\c&HD6D1D2&\pos(320,292)\3c&H161B1A&}Pulreide Şehri, Pulreide Bölgesi
-Dialogue: 0,0:04:04.26,0:04:08.35,cr_sign_1,sign,0,0,0,,{\fad(480,400)\fs14\shad1\bord1\fnTimes New Roman\b1\c&HC8CCC9&\3c&H232C28&\4c&H232C28&\pos(325,270)}Seitz Ordusu Yetkilisi\N{\fs18} Caesus Lopard
 Dialogue: 0,0:04:04.26,0:04:07.90,Default,Caesus,0,0,0,,{\an8}Bu kadar savaş arasında \Ndüzgün bir mola bile veremiyorum.
 Dialogue: 0,0:04:07.90,0:04:10.52,Default,Caesus,0,0,0,,{\an8}Acaba etrafta hiç genç \Nkız var mı?
-Dialogue: 0,0:04:12.85,0:04:16.73,cr_sign_1,sign,0,0,0,,{\fad(550,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(175,307)}Pham'ın Stratejisi
 Dialogue: 0,0:04:27.46,0:04:29.22,Default,Pham,0,0,0,,Bu yer dolu mu?
 Dialogue: 0,0:04:29.22,0:04:31.96,Default,Caesus,0,0,0,,H-Hayır, buyurun oturun!
 Dialogue: 0,0:04:33.59,0:04:37.21,Default,Caesus,0,0,0,,Vay canına, ne kadar da hoş birisin.
@@ -88,8 +80,6 @@ Dialogue: 0,0:05:39.26,0:05:41.92,Default,Irving,0,0,0,,En çılgın planları s
 Dialogue: 0,0:05:41.92,0:05:43.78,Default,Pham,0,0,0,,Elbette bulurum.
 Dialogue: 0,0:05:44.22,0:05:47.20,Default,Pham,0,0,0,,Geri kalanı sana kalmış. İşine bak.
 Dialogue: 0,0:05:47.20,0:05:48.15,Default,Irving,0,0,0,,Emredersiniz!
-Dialogue: 0,0:05:48.53,0:05:51.53,cr_sign_1,sign,0,0,0,,{\fad(500,500)\shad0\bord1\blur1\fnArial Black\c&HD6D1D2&\pos(320,292)\3c&H161B1A&}Pulreide Kalesi, Seitz Eyaleti
-Dialogue: 0,0:05:53.29,0:05:57.00,cr_sign_1,sign,0,0,0,,{\fad(480,400)\fs14\shad1\bord1\fnTimes New Roman\b1\c&HC8CCC9&\3c&H232C28&\4c&H232C28&\pos(320,270)}Seitz Ordusu Lojistik Başkanı\N{\fs18}Ractor Brandoll
 Dialogue: 0,0:05:53.69,0:05:57.00,Default,Ractor,0,0,0,,{\an8}Malzemelerimizi neden yer altında saklayacakmışız?
 Dialogue: 0,0:05:57.45,0:06:00.50,Default,Caesus,0,0,0,,Düşmanın onları hedef almasını önlemek için.
 Dialogue: 0,0:06:01.03,0:06:07.01,Default,Caesus,0,0,0,,Shadow adında bir paralı asker grubu ikmal sitelerimizin etrafında dolanıyor.
@@ -122,7 +112,6 @@ Dialogue: 0,0:07:27.63,0:07:29.80,Default,Caesus,0,0,0,,Yenilikçi düşünce ge
 Dialogue: 0,0:07:32.31,0:07:34.54,Default,Ractor,0,0,0,,Pekâlâ, yapacağız.
 Dialogue: 0,0:07:35.12,0:07:37.84,Default,Ractor,0,0,0,,Başarılı olursa, seni cömertçe ödüllendireceğim.
 Dialogue: 0,0:07:37.84,0:07:40.98,Default,Caesus,0,0,0,,Minnettarım, efendim.
-Dialogue: 0,0:07:50.19,0:07:53.61,cr_sign_1,sign,0,0,0,,{\fad(550,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(170,307)}İşler Tersine Dönüyor
 Dialogue: 0,0:07:54.74,0:07:58.83,Default,Caesus,0,0,0,,Aynen böyle devam edin! İlerliyorsunuz!
 Dialogue: 0,0:07:59.20,0:08:01.83,Default,Caesus,0,0,0,,Şimdi de doğudaki alanı kazın!
 Dialogue: 0,0:08:03.83,0:08:07.12,Default,Caesus,0,0,0,,Yer altı depolama tesisleri tamamlandı.
@@ -136,7 +125,6 @@ Dialogue: 0,0:08:38.38,0:08:39.18,Default,Shadow,0,0,0,,Emredersiniz!
 Dialogue: 0,0:08:45.62,0:08:48.31,Default,Pham,0,0,0,,Bütün Aqua magia'yı alın.
 Dialogue: 0,0:08:48.31,0:08:50.26,Default,Pham,0,0,0,,Taşıyamadığınız ne varsa yakın!
 Dialogue: 0,0:08:50.26,0:08:51.46,Default,Shadow,0,0,0,,Emredersiniz, efendim!
-Dialogue: 0,0:08:51.46,0:08:53.47,cr_sign_1,sign,0,0,0,,{\fad(500,1)\shad0\bord1\blur1\fnArial Black\c&HD6D1D2&\pos(320,292)\3c&H161B1A&}Coumeire Kalesi
 Dialogue: 0,0:08:52.72,0:08:53.47,Default,Ars,0,0,0,,{\an8}Ne...
 Dialogue: 0,0:08:53.71,0:08:54.47,Default,Ars,0,0,0,,Ne...
 Dialogue: 0,0:08:54.47,0:08:57.97,Default,Ars,0,0,0,,Bütün bu Aqua magia da nereden çıktı?!
@@ -175,13 +163,10 @@ Dialogue: 0,0:10:31.81,0:10:35.36,Default,Rietz,0,0,0,,Lojistik birimleri bir s�
 Dialogue: 0,0:10:35.36,0:10:40.95,Default,Mireille,0,0,0,,Ancak karşımızda bizim hiç bilmediğimiz \Nbir nehir geçidi bulmuş bir ordu var.
 Dialogue: 0,0:10:41.36,0:10:46.70,Default,Mireille,0,0,0,,Göz açıp kapayıncaya kadar yeni bir \Nikmal taşıma sistemi kuracaklardır.
 Dialogue: 0,0:10:46.98,0:10:50.30,Default,Mireille,0,0,0,,Seitz ordusuna vuracaksan, \Nhemen şimdi yapsan iyi olur.
-Dialogue: 0,0:10:50.96,0:10:53.21,cr_sign_1,sign,0,0,0,,{\fad(500,1)\shad0\bord1\blur1\fnArial Black\c&HD6D1D2&\pos(320,292)\3c&H161B1A&}Seitz Kampı, Coumeire Nehri
-Dialogue: 0,0:10:54.36,0:10:58.07,cr_sign_1,Sign,0,0,0,,{\fad(550,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(320,292)}Borotz Heygand
 Dialogue: 0,0:10:54.56,0:10:57.26,Default,Borotz,0,0,0,,{\an8}Burada epey etkileyici \Nbir karargâh kurmuşlar.
 Dialogue: 0,0:10:57.26,0:10:59.58,Default,Borotz,0,0,0,,{\an8}Toprak büyüsü kullanmış olmalılar.
 Dialogue: 0,0:10:59.58,0:11:01.01,Default,Seitz A,0,0,0,,Borotz-sama!
 Dialogue: 0,0:11:01.63,0:11:04.22,Default,Seitz A,0,0,0,,Ractor-sama ve Caesus-sama burada.
-Dialogue: 0,0:11:08.02,0:11:11.44,cr_sign_1,sign,0,0,0,,{\fad(550,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(170,307)}Teknoloji ve Çatışma
 Dialogue: 0,0:11:08.28,0:11:09.89,Default,Borotz,0,0,0,,{\an8}Baskın mı dediniz?
 Dialogue: 0,0:11:10.20,0:11:12.90,Default,Ractor,0,0,0,,{\an8}Yer altında depolanan \Nmalzemelerimiz çalındı.
 Dialogue: 0,0:11:18.85,0:11:19.78,Default,Ractor,0,0,0,,Neler oluyor?
@@ -238,7 +223,6 @@ Dialogue: 0,0:14:40.48,0:14:42.66,Default,Lantorque,0,0,0,,Geri kalanı bana bı
 Dialogue: 0,0:14:45.13,0:14:46.07,Default,Borotz,0,0,0,,Hayır.
 Dialogue: 0,0:14:50.43,0:14:55.34,Default,Borotz,0,0,0,,İlerleyişlerini bizzat ben durduracağım.
 Dialogue: 0,0:14:57.83,0:14:58.84,Default,Canarre A,0,0,0,,{\an8}Ars-sama!
-Dialogue: 0,0:14:56.33,0:14:59.33,cr_sign_1,sign,0,0,0,,{\fad(550,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(170,307)}Ani Sel
 Dialogue: 0,0:15:00.01,0:15:03.92,Default,Canarre A,0,0,0,,Seitz'e geri geçmeye başladılar.
 Dialogue: 0,0:15:05.07,0:15:07.09,Default,Ars,0,0,0,,Beklediğimden de hızlılar.
 Dialogue: 0,0:15:07.55,0:15:11.37,Default,Rosell,0,0,0,,Geri çekilmekten başka \Npek fazla seçenekleri yoktu.
@@ -278,7 +262,6 @@ Dialogue: 0,0:17:06.35,0:17:09.84,Default,Ars,0,0,0,,Eğer kazanırsak, Canarre 
 Dialogue: 0,0:17:09.84,0:17:14.05,Default,Ars,0,0,0,,Şimdiye kadarki savaş \Ngenerallerin bir akıl savaşıydı.
 Dialogue: 0,0:17:14.05,0:17:17.45,Default,Ars,0,0,0,,Fakat sonunda iş güç ile gücün \Nçarpışmasına kalıyor.
 Dialogue: 0,0:17:17.45,0:17:19.93,Default,Ars,0,0,0,,İki ordunun birbirine çarpışması!
-Dialogue: 0,0:17:21.43,0:17:24.81,cr_sign_1,sign,0,0,0,,{\fad(550,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(170,307)}Generallerin Savaşı
 Dialogue: 0,0:17:31.83,0:17:34.70,Default,Borotz,0,0,0,,Mükemmel taktiklerini kutlarım.
 Dialogue: 0,0:17:34.70,0:17:39.82,Default,Borotz,0,0,0,,Ve hepsinden daha korkunç olanı da \Nbunu gerçekleştiren düşman generali.
 Dialogue: 0,0:17:40.28,0:17:42.20,Default,Borotz,0,0,0,,Ars Louvent.
@@ -350,4 +333,3 @@ Dialogue: 0,0:23:31.57,0:23:33.51,Default,Ars,0,0,0,,Tatil mi? Olur yapalım!
 Dialogue: 0,0:23:33.51,0:23:35.78,Default,Rietz,0,0,0,,Elbette! Tazelenmek önemlidir!
 Dialogue: 0,0:23:35.78,0:23:37.54,Default,Charlotte,0,0,0,,Seni pislik...
 Dialogue: 0,0:23:37.54,0:23:40.02,Default,Ars,0,0,0,,Gelecek Bölüm: "Vasmarque'ın Sonu."
-Dialogue: 0,0:00:00.00,0:00:00.00,cr_sign_1,Sign,0,0,0,,{\fad(480,1)\fs12\an3\shad1\bord1\fnTimes New Roman\b1\c&HC8CCC9&\3c&H232C28&\4c&H232C28&\fs14\pos(605,165.957)}Gelecek Bölüm     {\fs16}Vasmarque'ın Sonu
