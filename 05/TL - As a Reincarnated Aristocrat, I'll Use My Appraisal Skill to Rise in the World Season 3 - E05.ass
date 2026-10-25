@@ -12,11 +12,10 @@ LayoutResY: 360
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Gandhi Sans,25,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.2,0.5,2,10,10,18,1
-Style: cr_sign_1,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,18,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.66,0:00:10.00,Default,Borotz,0,0,0,,{\fs15\an7\fe162\b\fad(400,400)\bord2\blur5\shad\4c&H000000&\4a&HFF&\fnSweetest Cat Ever}\N{\pos(20,-2)}{\c&HFFFF00&}{\4c&H8485E4&}SomeSub ekip arkadaşı arıyor!\N{\pos(60,63)}{\c&HFFFFFF&}Çevirmen:{\c&HFFFF00&} Umav\N{\pos(60,111)}{\c&HFFFFFF&}Encode:{\c&HFFFF00&} Velnoxy\N{\pos(60,111)}{\c&HFFFFFF&}Redaktör:{\c&HFFFF00&} Umav\N{\c&HFFFFFF&}Discord:{\c&HFFFF00&} discord.gg/somesub
+Dialogue: 0,0:00:00.66,0:00:10.00,Default,Borotz,0,0,0,,{\fs15\an7\fe162\fad(400,400)\bord2\blur5\shad0\4c&H000000&\4a&HFF&\fnSweetest Cat Ever}\N{\pos(20,-2)\c&HFFFF00&\4c&H8485E4&}SomeSub ekip arkadaşı arıyor!\N{\c&HFFFFFF&}Çevirmen:{\c&HFFFF00&} Umav\N{\c&HFFFFFF&}Encode:{\c&HFFFF00&} Velnoxy\N{\c&HFFFFFF&}Redaktör:{\c&HFFFF00&} Umav\N{\c&HFFFFFF&}Discord:{\c&HFFFF00&} discord.gg/somesub
 Dialogue: 0,0:00:00.66,0:00:01.98,Default,Borotz,0,0,0,,Vali...
 Dialogue: 0,0:00:02.27,0:00:05.31,Default,Borotz,0,0,0,,Şu anki halimizle Ars Louvent'i yenmemiz imkânsız!
 Dialogue: 0,0:00:06.10,0:00:10.51,Default,Ars,0,0,0,,{\i1}Ondan sonra, Missian için oldukça avantajlı şartlar altında Seitz Eyaleti ile.
@@ -24,17 +23,11 @@ Dialogue: 0,0:00:10.51,0:00:12.74,Default,Ars,0,0,0,,{\i1}Barış yapmayı başa
 Dialogue: 0,0:00:13.45,0:00:18.66,Default,Ars,0,0,0,,Ardından, halkımızın dinlenmesine izin verilmesini talep eden Couran-sama'nın isteği üzerine...
 Dialogue: 0,0:00:18.66,0:00:22.80,Default,Ars,0,0,0,,Vasmarque-sama'ya karşı\N yapılan savaşa katılmak yerine.
 Dialogue: 0,0:00:22.80,0:00:24.99,Default,Ars,0,0,0,,{\i1}Canarre'a geri döndük.
-Dialogue: 0,0:00:26.83,0:00:30.84,cr_sign_1,sign,0,0,0,,{\fad(500,500)\shad0\bord1\blur1\fnArial Black\c&HD6D1D2&\pos(320,292)\3c&H161B1A&}Arcantez Kalesi
-Dialogue: 0,0:00:32.67,0:00:35.30,cr_sign_1,sign,0,0,0,,{\fad(480,400)\fs18\shad1\bord1\fnTimes New Roman\b1\c&HC8CCC9&\3c&H232C28&\4c&H232C28&\pos(325,290)}Canses Vandol
-Dialogue: 0,0:00:37.97,0:00:40.85,cr_sign_1,sign,0,0,0,,{\fad(480,400)\fs18\shad1\bord1\fnTimes New Roman\b1\c&HC8CCC9&\3c&H232C28&\4c&H232C28&\pos(325,290)}Vasmarque Salamakhia
 Dialogue: 0,0:00:39.44,0:00:41.56,Default,Vasmarque,0,0,0,,{\an8}İnatçı bir adam.
-Dialogue: 0,0:00:41.56,0:00:44.48,cr_sign_1,sign,0,0,0,,{\fad(480,400)\fs18\shad1\bord1\fnTimes New Roman\b1\c&HC8CCC9&\3c&H232C28&\4c&H232C28&\pos(325,290)}Couran Salamakhia
 Dialogue: 0,0:00:42.26,0:00:45.40,Default,Couran,0,0,0,,{\an8}Bitirelim şu işi, küçük kardeşim.
-Dialogue: 0,0:02:16.61,0:02:21.16,cr_sign_1,sign,0,0,0,,{\fad(520,480)\fs14\an3\shad1\bord1\fnTimes New Roman\b1\c&HCACAC9&\3c&H302F2E&\4c&H302F2E&\pos(605.83,316.351)}29. Bölüm     {\fs16}Vasmarque'ın Sonu
 Dialogue: 0,0:02:20.66,0:02:22.74,Default,Remus,0,0,0,,{\an8}Gidiyor musunuz, efendim?
 Dialogue: 0,0:02:23.12,0:02:28.30,Default,Vasmarque,0,0,0,,Babamın, kafasını bizzat benim almamı \Nisteyeceğinden eminim.
 Dialogue: 0,0:02:29.20,0:02:31.64,Default,Vasmarque,0,0,0,,Geri kalanını sana bırakıyorum, Remus.
-Dialogue: 0,0:02:37.26,0:02:39.47,cr_sign_1,sign,0,0,0,,{\fad(480,400)\fs18\shad1\bord1\fnTimes New Roman\b1\c&HC8CCC9&\3c&H232C28&\4c&H232C28&\pos(325,290)}Lumeire Pyres
 Dialogue: 0,0:02:37.56,0:02:39.47,Default,Lumeire,0,0,0,,{\an8}Seitz mancınıkları mı?!
 Dialogue: 0,0:02:46.52,0:02:48.70,Default,Couran,0,0,0,,Büyücü birliği, saf tutun!
 Dialogue: 0,0:02:48.70,0:02:50.35,Default,Couran,0,0,0,,Askerleri koruyun!
@@ -88,7 +81,6 @@ Dialogue: 0,0:06:36.41,0:06:39.67,Default,Couran,0,0,0,,Diğerlerine söyleyin! 
 Dialogue: 0,0:06:40.24,0:06:42.67,Default,Couran,0,0,0,,Missian benimdir!
 Dialogue: 0,0:06:45.68,0:06:49.44,Default,Narration,0,0,0,,{\i1}Uzun süren Missian Veraset Savaşı
 Dialogue: 0,0:06:49.44,0:06:53.89,Default,Narration,0,0,0,,{\i1}Vasmarque'ın yenilgisiyle \nsona erdi.
-Dialogue: 0,0:06:56.52,0:06:59.94,cr_sign_1,sign,0,0,0,,{\fad(550,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(175,307)}Arcantez
 Dialogue: 0,0:07:00.45,0:07:01.94,Default,Rietz,0,0,0,,Artık görebiliyorsunuz.
 Dialogue: 0,0:07:01.94,0:07:04.44,Default,Ars,0,0,0,,Burası Arcantez mi, eyaletin başkenti?
 Dialogue: 0,0:07:04.87,0:07:07.94,Default,Mireille,0,0,0,,Bu havayı solumayalı epey oldu.
@@ -98,7 +90,6 @@ Dialogue: 0,0:07:14.31,0:07:18.52,Default,Rietz,0,0,0,,Bu saçma, sapan kadın b
 Dialogue: 0,0:07:18.52,0:07:20.22,Default,Rietz,0,0,0,,Böyle bir davranışa göz yumamayız.
 Dialogue: 0,0:07:20.22,0:07:23.23,Default,Mireille,0,0,0,,Katılaşma hemen, Rietz.
 Dialogue: 0,0:07:23.23,0:07:25.39,Default,Mireille,0,0,0,,Burada halletmem gereken işler var.
-Dialogue: 0,0:07:37.35,0:07:40.14,cr_sign_1,sign,0,0,0,,{\fad(500,500)\shad0\bord1\blur1\fnArial Black\c&HD6D1D2&\pos(320,292)\3c&H161B1A&}Arcantez Kalesi
 Dialogue: 0,0:07:38.70,0:07:41.85,Default,Arcantez A,0,0,0,,{\an8}Beklettiğim için affedin, Ars Louvent-sama.
 Dialogue: 0,0:07:42.20,0:07:45.61,Default,Arcantez A,0,0,0,,Biraz beklerseniz hemen bir görevli çağıracağım.
 Dialogue: 0,0:07:46.65,0:07:48.39,Default,Rengue,0,0,0,,Naber, Ars-kun!
@@ -191,7 +182,6 @@ Dialogue: 0,0:13:24.78,0:13:28.80,Default,Vasmarque,0,0,0,,O adamın gerçek yü
 Dialogue: 0,0:13:29.87,0:13:32.79,Default,Vasmarque,0,0,0,,Farkına vardığınızda, çok geç olacak.
 Dialogue: 0,0:13:35.81,0:13:40.84,Default,Vasmarque,0,0,0,,Missian'ın çöküşünü şimdiden görebiliyorum, gündüz gibi berrak...
 Dialogue: 0,0:13:55.51,0:14:00.36,Default,Ars,0,0,0,,O gün, Missian birleşti.
-Dialogue: 0,0:14:01.88,0:14:04.88,cr_sign_1,Sign,0,0,0,,{\fad(550,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(175,307)}Couran'ın Niyetleri
 Dialogue: 0,0:14:05.12,0:14:08.44,Default,Couran,0,0,0,,Bu saatte çağırdığım için üzgünüm.
 Dialogue: 0,0:14:08.44,0:14:11.12,Default,Ars,0,0,0,,Ne münasebet, efendim. Ne görüşmek istemiştiniz?
 Dialogue: 0,0:14:11.39,0:14:13.53,Default,Couran,0,0,0,,Oğlumla ilgili.
@@ -264,8 +254,6 @@ Dialogue: 0,0:18:22.94,0:18:25.12,Default,Ars,0,0,0,,Rietz-san, Mireille-san...
 Dialogue: 0,0:18:25.58,0:18:28.36,Default,Ars,0,0,0,,Döndüğümüzde, diğerlerini çağırabilir misiniz?
 Dialogue: 0,0:18:28.36,0:18:30.18,Default,Ars,0,0,0,,Onlarla konuşmak istiyorum.
 Dialogue: 0,0:18:30.72,0:18:32.93,Default,Ars,0,0,0,,Louvent Hanedanı'nın geleceği hakkında.
-Dialogue: 0,0:18:33.50,0:18:36.76,cr_sign_1,sign,0,0,0,,{\fad(500,500)\shad0\bord1\blur1\fnArial Black\c&HD6D1D2&\pos(320,292)\3c&H161B1A&}Canarre Kalesi
-Dialogue: 0,0:18:37.17,0:18:40.68,cr_sign_1,sign,0,0,0,,{\fad(550,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(175,307)}Acil Bir Toplantı
 Dialogue: 0,0:18:37.17,0:18:40.15,Default,Rietz,0,0,0,,{\an8}Couran-sama bunları mı söyledi?
 Dialogue: 0,0:18:40.15,0:18:40.89,Default,Ars,0,0,0,,{\an8}Evet.
 Dialogue: 0,0:18:41.21,0:18:45.48,Default,Mireille,0,0,0,,Sebebi ne olursa olsun, bağımsızlık konusunda kesin kararlı görünüyor.
@@ -324,4 +312,3 @@ Dialogue: 0,0:23:32.71,0:23:35.64,Default,Licia,0,0,0,,Eşin olarak, benimle iki
 Dialogue: 0,0:23:35.64,0:23:36.48,Default,Ars,0,0,0,,Kaçmalıyım!
 Dialogue: 0,0:23:36.48,0:23:37.60,Default,Ars,0,0,0,,Gelecek Bölüm: "Fujimiya."
 Dialogue: 0,0:23:37.60,0:23:39.47,Default,Licia,0,0,0,,Derhal buraya dön!
-Dialogue: 0,0:23:37.62,0:23:40.07,cr_sign_1,Sign,0,0,0,,{\fad(480,1)\fs12\an3\shad1\bord1\fnTimes New Roman\b1\c&HC8CCC9&\3c&H232C28&\4c&H232C28&\fs14\pos(605,165.957)}Gelecek Bölüm     {\fs16}Fujimiya
