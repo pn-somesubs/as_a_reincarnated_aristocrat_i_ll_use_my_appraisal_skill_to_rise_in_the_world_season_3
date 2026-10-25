@@ -1,0 +1,327 @@
+[Script Info]
+Title: pn-SomeSubs - As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,25,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.2,0.5,2,10,10,18,1
+Style: cr_sign_1,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.66,0:00:10.00,Default,Borotz,0,0,0,,{\fs15\an7\fe162\fad(400,400)\bord2\blur5\shad0\4c&H000000&\4a&HFF&\fnSweetest Cat Ever}\N{\pos(20,-2)\c&HFFFF00&\4c&H8485E4&}SomeSub ekip arkadaşı arıyor!\N{\c&HFFFFFF&}Çevirmen:{\c&HFFFF00&} Umav\N{\c&HFFFFFF&}Encode:{\c&HFFFF00&} Velnoxy\N{\c&HFFFFFF&}Redaktör:{\c&HFFFF00&} Umav\N{\c&HFFFFFF&}Discord:{\c&HFFFF00&} discord.gg/somesub
+Dialogue: 9,0:00:00.66,0:00:01.98,Default,Borotz,0,0,0,,Vali...
+Dialogue: 9,0:00:02.27,0:00:05.31,Default,Borotz,0,0,0,,Şu anki halimizle Ars Louvent'i yenmemiz imkânsız!
+Dialogue: 9,0:00:06.10,0:00:10.51,Default,Ars,0,0,0,,{\i1}Ondan sonra, Missian için oldukça avantajlı şartlar altında Seitz Eyaleti ile.
+Dialogue: 9,0:00:10.51,0:00:12.74,Default,Ars,0,0,0,,{\i1}Barış yapmayı başardık.
+Dialogue: 9,0:00:13.45,0:00:18.66,Default,Ars,0,0,0,,Ardından, halkımızın dinlenmesine izin verilmesini talep eden Couran-sama'nın isteği üzerine...
+Dialogue: 9,0:00:18.66,0:00:22.80,Default,Ars,0,0,0,,Vasmarque-sama'ya karşı\N yapılan savaşa katılmak yerine.
+Dialogue: 9,0:00:22.80,0:00:24.99,Default,Ars,0,0,0,,{\i1}Canarre'a geri döndük.
+Dialogue: 0,0:00:39.44,0:00:41.56,Default,Vasmarque,0,0,0,,{\an8}İnatçı bir adam.
+Dialogue: 0,0:00:42.26,0:00:45.40,Default,Couran,0,0,0,,{\an8}Bitirelim şu işi, küçük kardeşim.
+Dialogue: 0,0:02:20.66,0:02:22.74,Default,Remus,0,0,0,,{\an8}Gidiyor musunuz, efendim?
+Dialogue: 9,0:02:23.12,0:02:28.30,Default,Vasmarque,0,0,0,,Babamın, kafasını bizzat benim almamı \Nisteyeceğinden eminim.
+Dialogue: 9,0:02:29.20,0:02:31.64,Default,Vasmarque,0,0,0,,Geri kalanını sana bırakıyorum, Remus.
+Dialogue: 0,0:02:37.56,0:02:39.47,Default,Lumeire,0,0,0,,{\an8}Seitz mancınıkları mı?!
+Dialogue: 9,0:02:46.52,0:02:48.70,Default,Couran,0,0,0,,Büyücü birliği, saf tutun!
+Dialogue: 9,0:02:48.70,0:02:50.35,Default,Couran,0,0,0,,Askerleri koruyun!
+Dialogue: 9,0:02:50.66,0:02:53.23,Default,Couran Mages,0,0,0,,Mandatom Rudere Marum!
+Dialogue: 9,0:02:59.99,0:03:03.00,Default,Couran Mages,0,0,0,,Mandatom Rudere Marum!
+Dialogue: 9,0:03:04.35,0:03:06.62,Default,Lumeire,0,0,0,,Couran-sama, Aqua magia'mız bitti!
+Dialogue: 9,0:03:06.62,0:03:07.83,Default,Couran,0,0,0,,Biliyorum!
+Dialogue: 9,0:03:07.83,0:03:09.84,Default,Couran,0,0,0,,İşte bu yüzden savaşı onların ayağına götüreceğiz!
+Dialogue: 9,0:03:09.84,0:03:12.92,Default,Couran,0,0,0,,Bunu kazanmanın tek yolu \Nyakın dövüştür!
+Dialogue: 9,0:03:13.51,0:03:16.80,Default,Vasmarque,0,0,0,,Defansif büyüleriniz \nsonunda tükenip bitecek.
+Dialogue: 9,0:03:16.80,0:03:19.00,Default,Vasmarque,0,0,0,,Kaçacak mısınız yoksa hücum mu edeceksiniz?
+Dialogue: 9,0:03:19.00,0:03:20.59,Default,Vasmarque,0,0,0,,Şansını dene, Couran.
+Dialogue: 9,0:03:20.59,0:03:22.50,Default,Couran,0,0,0,,Peşimden gelin!
+Dialogue: 9,0:03:22.50,0:03:23.97,Default,Lumeire,0,0,0,,Couran-sama!
+Dialogue: 9,0:03:24.32,0:03:25.80,Default,Couran,0,0,0,,Açın yolu!
+Dialogue: 9,0:03:31.27,0:03:33.15,Default,Canses,0,0,0,,Okçular, ileri!
+Dialogue: 9,0:03:47.90,0:03:48.97,Default,Lupa,0,0,0,,Couran-sama!
+Dialogue: 9,0:03:56.29,0:03:57.80,Default,Couran,0,0,0,,Vasmarque!
+Dialogue: 9,0:04:01.30,0:04:02.41,Default,Vasmarque,0,0,0,,Couran!
+Dialogue: 9,0:04:02.90,0:04:06.00,Default,Vasmarque,0,0,0,,Sonunda, yalnızca kendine inanıyorsun.
+Dialogue: 9,0:04:06.00,0:04:07.01,Default,Vasmarque,0,0,0,,Ölmeye hazırlan!
+Dialogue: 9,0:04:16.47,0:04:17.44,Default,Lumeire,0,0,0,,Rengue-sama!
+Dialogue: 9,0:04:18.00,0:04:22.56,Default,Rengue,0,0,0,,Ben Couran Salamakhia'nın varisiyim, Rengue Salamakhia!
+Dialogue: 9,0:04:22.56,0:04:26.28,Default,Rengue,0,0,0,,Önüme çıkan herkesi öldürürüm, \Nkendi yurttaşlarımı bile!
+Dialogue: 9,0:04:26.99,0:04:28.41,Default,Vasmarque,0,0,0,,Yiyorsa gel! Couran!
+Dialogue: 9,0:04:29.12,0:04:33.16,Default,Vasmarque,0,0,0,,Missian'ı veya halkını sana bırakmayacağım!
+Dialogue: 9,0:04:33.76,0:04:36.67,Default,Vasmarque,0,0,0,,Hırslarını burada, bugün durduracağım!
+Dialogue: 9,0:04:39.95,0:04:41.83,Default,Couran,0,0,0,,Söyleyeceklerin bu kadar mı?
+Dialogue: 9,0:04:42.35,0:04:44.21,Default,Couran,0,0,0,,Missian bana ait.
+Dialogue: 9,0:04:44.72,0:04:46.05,Default,Couran,0,0,0,,Onu bana ver!
+Dialogue: 9,0:04:46.46,0:04:48.05,Default,Vasmarque,0,0,0,,Sen bir aptalsın, Couran!
+Dialogue: 9,0:04:48.55,0:04:49.56,Default,Couran,0,0,0,,Kes sesini!
+Dialogue: 9,0:05:01.23,0:05:04.95,Default,Couran,0,0,0,,Zavallı yeteneklerin Bu toprakları korumaya yeter mi sanıyorsun?!
+Dialogue: 9,0:05:07.25,0:05:08.47,Default,Canses,0,0,0,,Vasmarque-sama!
+Dialogue: 9,0:05:08.47,0:05:09.20,Default,Vasmarque,0,0,0,,Canses!
+Dialogue: 9,0:05:09.66,0:05:12.29,Default,Canses,0,0,0,,Couran-sama, ölmeye hazırlan!
+Dialogue: 9,0:05:12.68,0:05:14.41,Default,Couran,0,0,0,,Yoldan çekil, Canses!
+Dialogue: 9,0:05:15.03,0:05:17.17,Default,Canses,0,0,0,,Missian'ı sana emanet ediyorum.
+Dialogue: 9,0:05:18.54,0:05:19.92,Default,Vasmarque,0,0,0,,Canses!
+Dialogue: 9,0:05:23.71,0:05:24.67,Default,Vasmarque,0,0,0,,Canses!
+Dialogue: 9,0:05:30.70,0:05:32.06,Default,Lumeire,0,0,0,,Rengue-sama!
+Dialogue: 9,0:05:46.82,0:05:48.15,Default,Rengue,0,0,0,,Baba!
+Dialogue: 9,0:05:55.69,0:05:56.86,Default,Rengue,0,0,0,,Baba...
+Dialogue: 9,0:06:00.66,0:06:02.56,Default,Selena,0,0,0,,Couran-sama, yara almadınız değil mi?
+Dialogue: 9,0:06:02.56,0:06:03.50,Default,Couran,0,0,0,,Elbette.
+Dialogue: 9,0:06:17.17,0:06:18.64,Default,Vasmarque,0,0,0,,Canses!
+Dialogue: 9,0:06:23.47,0:06:25.45,Default,Couran,0,0,0,,Aptal kardeşim benim...
+Dialogue: 9,0:06:25.45,0:06:27.15,Default,Couran,0,0,0,,Kaybettin.
+Dialogue: 9,0:06:34.47,0:06:35.64,Default,Couran,0,0,0,,Götürün onu!
+Dialogue: 9,0:06:36.41,0:06:39.67,Default,Couran,0,0,0,,Diğerlerine söyleyin! Savaş bitti!
+Dialogue: 9,0:06:40.24,0:06:42.67,Default,Couran,0,0,0,,Missian benimdir!
+Dialogue: 9,0:06:45.68,0:06:49.44,Default,Narration,0,0,0,,{\i1}Uzun süren Missian Veraset Savaşı
+Dialogue: 9,0:06:49.44,0:06:53.89,Default,Narration,0,0,0,,{\i1}Vasmarque'ın yenilgisiyle \nsona erdi.
+Dialogue: 9,0:07:00.45,0:07:01.94,Default,Rietz,0,0,0,,Artık görebiliyorsunuz.
+Dialogue: 9,0:07:01.94,0:07:04.44,Default,Ars,0,0,0,,Burası Arcantez mi, eyaletin başkenti?
+Dialogue: 9,0:07:04.87,0:07:07.94,Default,Mireille,0,0,0,,Bu havayı solumayalı epey oldu.
+Dialogue: 9,0:07:07.94,0:07:13.09,Default,Ars,0,0,0,,Doğru ya. Sen Arcantez Kalesi'nde çalışıyordun.
+Dialogue: 9,0:07:13.09,0:07:14.31,Default,Rietz,0,0,0,,Ars-sama.
+Dialogue: 9,0:07:14.31,0:07:18.52,Default,Rietz,0,0,0,,Bu saçma, sapan kadın bize eşlik etmek için Lamberg'deki görevlerini ihmal ediyor.
+Dialogue: 9,0:07:18.52,0:07:20.22,Default,Rietz,0,0,0,,Böyle bir davranışa göz yumamayız.
+Dialogue: 9,0:07:20.22,0:07:23.23,Default,Mireille,0,0,0,,Katılaşma hemen, Rietz.
+Dialogue: 9,0:07:23.23,0:07:25.39,Default,Mireille,0,0,0,,Burada halletmem gereken işler var.
+Dialogue: 0,0:07:38.70,0:07:41.85,Default,Arcantez A,0,0,0,,{\an8}Beklettiğim için affedin, Ars Louvent-sama.
+Dialogue: 9,0:07:42.20,0:07:45.61,Default,Arcantez A,0,0,0,,Biraz beklerseniz hemen bir görevli çağıracağım.
+Dialogue: 9,0:07:46.65,0:07:48.39,Default,Rengue,0,0,0,,Naber, Ars-kun!
+Dialogue: 9,0:07:48.39,0:07:49.77,Default,Rengue,0,0,0,,Yıllar oldu görüşmeyeli!
+Dialogue: 9,0:07:49.77,0:07:51.01,Default,Ars,0,0,0,,Rengue-sama!
+Dialogue: 9,0:07:51.01,0:07:52.91,Default,Arcantez A,0,0,0,,Rengue-sama! Burada ne arıyorsunuz?
+Dialogue: 9,0:07:53.19,0:07:55.52,Default,Rengue,0,0,0,,Bir arkadaşımı ziyarete uğrayamaz mıyım?
+Dialogue: 9,0:07:55.52,0:07:58.18,Default,Rengue,0,0,0,,Ve hâlâ ufaklıksın!
+Dialogue: 9,0:07:58.18,0:08:00.18,Default,Ars,0,0,0,,Sizi sağlığınız yerinde gördüğüme sevindim.
+Dialogue: 9,0:08:00.18,0:08:02.41,Default,Rengue,0,0,0,,Hadi gel, etrafı gezdireyim sana!
+Dialogue: 9,0:08:02.87,0:08:05.42,Default,Rengue,0,0,0,,Herkes seninle tanışmak için {\i1}ölüp bitiyor{\i0}!
+Dialogue: 9,0:08:10.88,0:08:12.32,Default,Noble A,0,0,0,,Ars Louvent!
+Dialogue: 9,0:08:12.32,0:08:13.88,Default,Noble B,0,0,0,,Şu Ars Louvent mi?!
+Dialogue: 9,0:08:13.88,0:08:16.76,Default,Noble C,0,0,0,,Missian'ı kurtaran adam burada!
+Dialogue: 9,0:08:19.18,0:08:21.36,Default,Noble D,0,0,0,,Bütün söylentileri duyduk.
+Dialogue: 9,0:08:21.36,0:08:23.57,Default,Noble D,0,0,0,,Seitz ordusunu darmadağın ettiğini söylüyorlar!
+Dialogue: 9,0:08:23.57,0:08:25.75,Default,Noble C,0,0,0,,Hepimiz sana son derece minnettarız.
+Dialogue: 9,0:08:25.75,0:08:27.44,Default,Ars,0,0,0,,Ç-Çok teşekkür ederim!
+Dialogue: 9,0:08:27.44,0:08:29.90,Default,Couran,0,0,0,,Demek Canarre'ın şampiyonları geldi?
+Dialogue: 9,0:08:31.13,0:08:32.65,Default,Couran,0,0,0,,O halde başlayalım.
+Dialogue: 9,0:08:33.01,0:08:36.02,Default,Couran,0,0,0,,Bugün burada olduğunuz için hepinize çok teşekkür ederim.
+Dialogue: 9,0:08:36.02,0:08:38.90,Default,Couran,0,0,0,,Zaferimizi kutlayalım!
+Dialogue: 9,0:08:40.03,0:08:44.54,Default,Ars,0,0,0,,{\i1}Uzun süren Missian Veraset Savaşı sona erdi.
+Dialogue: 9,0:08:44.54,0:08:46.51,Default,Ars,0,0,0,,{\i1}Şimdi kutlama zamanı!
+Dialogue: 9,0:08:59.88,0:09:03.81,Default,Mireille,0,0,0,,Hey, dostum. Canın sıkkın görünüyor.
+Dialogue: 9,0:09:04.07,0:09:05.31,Default,Thomas,0,0,0,,Mireille?
+Dialogue: 9,0:09:07.56,0:09:10.82,Default,Couran,0,0,0,,Bugün bana katıldığınız için hepinize teşekkür ederim.
+Dialogue: 9,0:09:11.22,0:09:13.93,Default,Couran,0,0,0,,İlk olarak, bunu mümkün kılan insanları kutlayalım.
+Dialogue: 9,0:09:13.93,0:09:18.54,Default,Couran,0,0,0,,Bu seferin en parlayan yıldızını \nödüllendirerek başlayacağım.
+Dialogue: 9,0:09:18.54,0:09:20.15,Default,Couran,0,0,0,,Ars Louvent!
+Dialogue: 9,0:09:21.60,0:09:24.33,Default,Ars,0,0,0,,O-Onur duydum! Gerçekten minnettarım, efendim!
+Dialogue: 9,0:09:24.61,0:09:28.51,Default,Couran,0,0,0,,Başarıların her daim şaşırtıcı.
+Dialogue: 9,0:09:28.51,0:09:30.09,Default,Couran,0,0,0,,Desteğini sürdürmeni umuyorum.
+Dialogue: 9,0:09:30.09,0:09:31.59,Default,Ars,0,0,0,,Emredersiniz, efendim!
+Dialogue: 9,0:09:31.59,0:09:35.09,Default,Couran,0,0,0,,Ayrıca yeni bir atama duyurmak istiyorum.
+Dialogue: 9,0:09:42.10,0:09:45.87,Default,Couran,0,0,0,,Üç büyük şehrimizden biri olan Semplar'ın lordluğuna.
+Dialogue: 9,0:09:45.87,0:09:48.10,Default,Couran,0,0,0,,Rengue Salamakhia'yı atıyorum.
+Dialogue: 9,0:09:50.53,0:09:52.74,Default,Rietz,0,0,0,,Rengue-sama'ya bir mülk mü veriyor?
+Dialogue: 9,0:09:52.74,0:09:55.03,Default,Rietz,0,0,0,,Oldukça cesur bir seçim.
+Dialogue: 9,0:09:55.03,0:09:56.11,Default,Ars,0,0,0,,Öyle mi?
+Dialogue: 9,0:09:58.56,0:10:01.28,Default,Ars,0,0,0,,Bence Lord Rengue bunun altından kalkabilir.
+Dialogue: 9,0:10:01.28,0:10:03.60,Default,Ars,0,0,0,,{\i1}Nitelikleri yükselmiş.
+Dialogue: 9,0:10:03.60,0:10:06.62,Default,Ars,0,0,0,,Onu son gördüğümden beri gerçekten çok çalışmış olmalı!
+Dialogue: 9,0:10:07.02,0:10:08.71,Default,Couran,0,0,0,,Savaşı kazandık.
+Dialogue: 9,0:10:09.05,0:10:12.38,Default,Couran,0,0,0,,Fakat idari işler hâlâ bizi bekliyor.
+Dialogue: 9,0:10:12.81,0:10:17.13,Default,Couran,0,0,0,,Gelin Missian Eyaleti'ni güçlü ve bolluk dolu bir yer yapalım!
+Dialogue: 9,0:10:19.84,0:10:24.64,Default,Ars,0,0,0,,Sonunda başardık. Missian nihayet savaştan kurtuldu.
+Dialogue: 9,0:10:24.97,0:10:25.60,Default,Rietz,0,0,0,,Evet.
+Dialogue: 9,0:10:26.14,0:10:28.99,Default,Ars,0,0,0,,Bir lordun ailesine ilk doğduğum andan itibaren.
+Dialogue: 9,0:10:28.99,0:10:32.04,Default,Ars,0,0,0,,Topraklarımı nasıl koruyacağımı \ndüşünerek çok zaman geçirdim.
+Dialogue: 9,0:10:33.45,0:10:39.18,Default,Ars,0,0,0,,Buradan sonra diğer eyaletlerle çatışmalar, belki de yeni iç savaşlar yaşayabiliriz...
+Dialogue: 9,0:10:40.58,0:10:45.83,Default,Ars,0,0,0,,Her ne kadar düşmanımız olsalar da, Missianlı kardeşlerimizle savaşmak içimizi acıttı.
+Dialogue: 9,0:10:45.83,0:10:50.00,Default,Ars,0,0,0,,Kılıcımı her salladığımda, yüzlerinin acıyla kasıldığını gördüm.
+Dialogue: 9,0:10:50.00,0:10:54.17,Default,Ars,0,0,0,,Onlar sadece halkları ve doğru bildikleri için savaşıyorlardı.
+Dialogue: 9,0:10:54.54,0:10:55.63,Default,Reitz,0,0,0,,Ars-sama.
+Dialogue: 9,0:10:56.40,0:10:59.92,Default,Ars,0,0,0,,Bu barış büyük fedakarlıklar üzerine kuruldu.
+Dialogue: 9,0:10:59.92,0:11:01.75,Default,Ars,0,0,0,,Ona değer vermeliyiz.
+Dialogue: 9,0:11:01.75,0:11:03.68,Default,Ars,0,0,0,,Elimizden geldiğince koruyalım.
+Dialogue: 9,0:11:03.98,0:11:04.68,Default,Rietz,0,0,0,,Evet, efendim.
+Dialogue: 9,0:11:05.83,0:11:10.56,Default,Couran,0,0,0,,Şimdi gelelim, hain Vasmarque'ı henüz konuşmadık.
+Dialogue: 9,0:11:11.65,0:11:15.07,Default,Couran,0,0,0,,Bana ihanet etmesinin cezası olarak.
+Dialogue: 9,0:11:15.78,0:11:18.82,Default,Couran,0,0,0,,Onu kısa süre içinde idam edeceğim.
+Dialogue: 9,0:11:21.77,0:11:24.84,Default,Couran,0,0,0,,Vasmarque benim küçük kardeşim ve gerçekten yetenekli bir adam.
+Dialogue: 9,0:11:24.84,0:11:29.79,Default,Couran,0,0,0,,Eğer yaşamasına izin verirsem, kesinlikle \nMissian'ın refahına katkıda bulunabilirdi.
+Dialogue: 9,0:11:30.59,0:11:34.33,Default,Couran,0,0,0,,Fakat onu affedemem.
+Dialogue: 9,0:11:35.16,0:11:41.22,Default,Couran,0,0,0,,Etimden ve kemiğimden olduğu için, ihaneti katbekat katlanılmaz oluyor.
+Dialogue: 9,0:11:41.95,0:11:45.12,Default,Couran,0,0,0,,Vasmarque yaşadığı sürece.
+Dialogue: 9,0:11:45.12,0:11:49.10,Default,Couran,0,0,0,,Missian valisi statüm her zaman şüphe altında olacak.
+Dialogue: 9,0:11:49.52,0:11:52.85,Default,Couran,0,0,0,,Bu yüzden Vasmarque'ın kafasının vurulmasına mahkûm ediyorum!
+Dialogue: 9,0:12:07.94,0:12:12.19,Default,Executioner A,0,0,0,,Şimdi Vasmarque Salamakhia'nın infazını gerçekleştireceğiz!
+Dialogue: 9,0:12:12.19,0:12:13.62,Default,Executioner A,0,0,0,,Mahkûmu getirin!
+Dialogue: 9,0:12:25.28,0:12:27.89,Default,Ars,0,0,0,,O Vasmarque-sama mı?
+Dialogue: 9,0:12:29.42,0:12:32.14,Default,Rietz,0,0,0,,Savaştan ötürü bir ceza olsa bile.
+Dialogue: 9,0:12:32.14,0:12:34.50,Default,Rietz,0,0,0,,İnfaz etmek gaddarca bir eylem.
+Dialogue: 9,0:12:34.50,0:12:37.65,Default,Rietz,0,0,0,,İzlemek için kendini zorlamana gerek yok, Ars-sama.
+Dialogue: 9,0:12:38.73,0:12:40.51,Default,Ars,0,0,0,,Hayır, Rietz-san.
+Dialogue: 9,0:12:40.51,0:12:42.65,Default,Ars,0,0,0,,Biz bu adamla da savaştık.
+Dialogue: 9,0:12:43.19,0:12:47.91,Default,Ars,0,0,0,,Ölenlerin hatırına, bunu sonuna kadar görmek sorumluluğum var.
+Dialogue: 9,0:12:47.91,0:12:51.61,Default,Vasmarque,0,0,0,,Missian halkı, sizlere bir kehanetim var!
+Dialogue: 9,0:12:52.14,0:12:54.66,Default,Vasmarque,0,0,0,,Missian bir gün bölünecek!
+Dialogue: 9,0:12:57.68,0:13:00.27,Default,Vasmarque,0,0,0,,Karşınıza ordu çıkardım ve kaybettim!
+Dialogue: 9,0:13:00.27,0:13:02.36,Default,Vasmarque,0,0,0,,Cezama itiraz etmiyorum!
+Dialogue: 9,0:13:02.36,0:13:05.93,Default,Vasmarque,0,0,0,,Fakat beni öldürmek hiçbir şeyi düzeltmez!
+Dialogue: 9,0:13:06.24,0:13:07.93,Default,Vasmarque,0,0,0,,Bütün bunların sebebi o!
+Dialogue: 9,0:13:08.42,0:13:10.18,Default,Vasmarque,0,0,0,,Couran Salamakhia!
+Dialogue: 9,0:13:10.18,0:13:14.94,Default,Vasmarque,0,0,0,,Onu başta bırakırsanız, eyaleti kaçınılmaz olarak felakete sürükleyecek!
+Dialogue: 9,0:13:17.13,0:13:19.06,Default,Vasmarque,0,0,0,,İyi düşünün!
+Dialogue: 9,0:13:19.06,0:13:24.29,Default,Vasmarque,0,0,0,,Savaş başlamadan önce babam neden varisi olarak beni seçti?
+Dialogue: 9,0:13:24.78,0:13:28.80,Default,Vasmarque,0,0,0,,O adamın gerçek yüzünü yalnızca ben biliyorum!
+Dialogue: 9,0:13:29.87,0:13:32.79,Default,Vasmarque,0,0,0,,Farkına vardığınızda, çok geç olacak.
+Dialogue: 9,0:13:35.81,0:13:40.84,Default,Vasmarque,0,0,0,,Missian'ın çöküşünü şimdiden görebiliyorum, gündüz gibi berrak...
+Dialogue: 9,0:13:55.51,0:14:00.36,Default,Ars,0,0,0,,O gün, Missian birleşti.
+Dialogue: 9,0:14:05.12,0:14:08.44,Default,Couran,0,0,0,,Bu saatte çağırdığım için üzgünüm.
+Dialogue: 9,0:14:08.44,0:14:11.12,Default,Ars,0,0,0,,Ne münasebet, efendim. Ne görüşmek istemiştiniz?
+Dialogue: 9,0:14:11.39,0:14:13.53,Default,Couran,0,0,0,,Oğlumla ilgili.
+Dialogue: 9,0:14:13.53,0:14:17.12,Default,Couran,0,0,0,,Rengue hakkında ne düşünüyorsun? Büyümüş görünüyor mu?
+Dialogue: 0,0:14:14.54,0:14:16.08,Default,Couran,0,0,0,,{\an8}Baba!
+Dialogue: 9,0:14:18.11,0:14:19.79,Default,Ars,0,0,0,,Evet, epey!
+Dialogue: 9,0:14:19.79,0:14:22.49,Default,Ars,0,0,0,,Üstelik bu kadar kısa bir süre içinde!
+Dialogue: 9,0:14:22.49,0:14:24.88,Default,Ars,0,0,0,,Ne kadar çok çalıştığı apaçık ortada!
+Dialogue: 9,0:14:24.88,0:14:27.76,Default,Couran,0,0,0,,D-Desene! Ah, bu içimi rahatlattı.
+Dialogue: 9,0:14:28.90,0:14:32.64,Default,Ars,0,0,0,,Missian'ı huzurlu bir yer yapmak için elinizden gelen tüm yardımı istiyorsunuz, değil mi?
+Dialogue: 9,0:14:33.40,0:14:34.89,Default,Couran,0,0,0,,Huzurlu mu diyorsun?
+Dialogue: 9,0:14:35.25,0:14:36.39,Default,Couran,0,0,0,,Ars.
+Dialogue: 9,0:14:37.11,0:14:39.03,Default,Couran,0,0,0,,Savaştan nefret ediyor musun?
+Dialogue: 9,0:14:40.22,0:14:43.40,Default,Ars,0,0,0,,Ne kadar az insan canı yanarsa, o kadar iyi diye düşünüyorum.
+Dialogue: 9,0:14:48.88,0:14:51.83,Default,Ars,0,0,0,,Couran-sama siz böyle düşünmüyor musunuz?
+Dialogue: 9,0:14:55.98,0:14:57.80,Default,Couran,0,0,0,,Ne kadar saçma bir soru.
+Dialogue: 9,0:14:57.80,0:14:59.92,Default,Couran,0,0,0,,Açıkçası kimse savaştan hoşlanmaz.
+Dialogue: 9,0:14:59.92,0:15:04.67,Default,Ars,0,0,0,,E-Elbette! Barışın en iyisi olduğunu herkes bilir.
+Dialogue: 9,0:15:04.67,0:15:07.17,Default,Couran,0,0,0,,Fakat savaş da gereklidir.
+Dialogue: 9,0:15:09.17,0:15:13.06,Default,Couran,0,0,0,,Kıta genelinde savaşların neden durur durmaz çıktığını biliyor musun?
+Dialogue: 9,0:15:14.16,0:15:18.21,Default,Couran,0,0,0,,Summerforth kıtası aslında yedi krallıktı.
+Dialogue: 9,0:15:18.21,0:15:26.05,Default,Couran,0,0,0,,Fakat imparatorluğun kuruluşundan önce savaşlar bu kadar sık değildi.
+Dialogue: 9,0:15:26.05,0:15:27.57,Default,Ars,0,0,0,,Gerçekten mi?
+Dialogue: 9,0:15:27.97,0:15:31.28,Default,Couran,0,0,0,,Elbette yerel çatışmalar vardı.
+Dialogue: 9,0:15:31.28,0:15:35.45,Default,Couran,0,0,0,,Ancak genel olarak eşit şartlarda antlaşmalar imzalanır ve barış korunurdu.
+Dialogue: 9,0:15:36.01,0:15:41.20,Default,Couran,0,0,0,,Yine de imparatorluk ailesinin birleşik kıta üzerindeki kontrolü zayıfladığından beri.
+Dialogue: 9,0:15:41.20,0:15:45.30,Default,Couran,0,0,0,,İmparatorluk büyük çaplı çatışma kasırgalarının pençesindeydi.
+Dialogue: 9,0:15:45.96,0:15:51.15,Default,Ars,0,0,0,,Yani... Summerforth İmparatorluğu'nun varlığı bizzat savaşa mı yol açıyor?
+Dialogue: 9,0:15:51.15,0:15:52.22,Default,Couran,0,0,0,,Doğru.
+Dialogue: 9,0:15:52.90,0:15:54.93,Default,Couran,0,0,0,,Kendimi bildim bileli.
+Dialogue: 9,0:15:54.93,0:15:58.60,Default,Couran,0,0,0,,Missian içeriden ve dışarıdan\N büyük çatışmalarla sarsıldı.
+Dialogue: 9,0:15:59.18,0:16:01.23,Default,Couran,0,0,0,,Ve sonra farkına vardım ki...
+Dialogue: 9,0:16:01.23,0:16:03.44,Default,Couran,0,0,0,,Savaş elbette kaçınılmazdır.
+Dialogue: 9,0:16:03.44,0:16:06.53,Default,Couran,0,0,0,,Çeşitli eyaletler aslen kendi krallıklarıydı.
+Dialogue: 9,0:16:06.53,0:16:09.36,Default,Couran,0,0,0,,Asla gerçekten uzlaşamazlar.
+Dialogue: 9,0:16:09.91,0:16:17.91,Default,Couran,0,0,0,,Gerçekten barış dolu bir dünya, eyaletlerin esit olarak yan yana yaşaması demektir.
+Dialogue: 9,0:16:17.91,0:16:24.01,Default,Couran,0,0,0,,Fakat biri diğerleri üzerinde güç kazandığı an, denge bozulur.
+Dialogue: 9,0:16:24.01,0:16:28.17,Default,Couran,0,0,0,,Hepimiz bağımsız olursak barışı korumanın daha kolay olacağına inanıyorum.
+Dialogue: 9,0:16:28.17,0:16:31.38,Default,Couran,0,0,0,,Böylece birbirimizi denetim altında tutabiliriz.
+Dialogue: 9,0:16:32.47,0:16:35.24,Default,Couran,0,0,0,,İmparatorluk içindeki çatışmalar devam ederse.
+Dialogue: 9,0:16:35.24,0:16:38.07,Default,Couran,0,0,0,,Summerforth'un kendisi zayıflayacak.
+Dialogue: 9,0:16:38.07,0:16:40.89,Default,Couran,0,0,0,,Ta ki başka bir kıtadan istilaya açık hale gelene kadar.
+Dialogue: 9,0:16:41.76,0:16:45.38,Default,Couran,0,0,0,,Bu çok daha trajik bir savaşa yol açacaktır.
+Dialogue: 9,0:16:46.27,0:16:50.40,Default,Couran,0,0,0,,Bunu önlemek için vali oldum.
+Dialogue: 9,0:16:52.71,0:16:55.63,Default,Couran,0,0,0,,Bu durum kendi başına savaşa yol açabilir.
+Dialogue: 9,0:16:55.63,0:16:59.53,Default,Couran,0,0,0,,Missian için de trajediyle sonuçlanabilir.
+Dialogue: 9,0:17:00.00,0:17:04.29,Default,Couran,0,0,0,,Fakat gerçek barışa ulaşmak için bunun gerekli olduğuna inanıyorum.
+Dialogue: 9,0:17:04.73,0:17:07.90,Default,Couran,0,0,0,,Ars, sen güçlü birine dönüştün.
+Dialogue: 9,0:17:08.54,0:17:11.35,Default,Couran,0,0,0,,Bu savaş seni güçlü kıldı.
+Dialogue: 9,0:17:11.35,0:17:16.05,Default,Couran,0,0,0,,Aksi takdirde bugün olduğun lord olamazdın.
+Dialogue: 9,0:17:17.68,0:17:22.21,Default,Couran,0,0,0,,Savaşın olumsuz yönleri \Nher zaman en açık görünenlerdir.
+Dialogue: 9,0:17:22.21,0:17:27.69,Default,Couran,0,0,0,,Ancak bize getirebileceği refahı oda kabul etmeliyiz.
+Dialogue: 9,0:17:28.11,0:17:30.19,Default,Couran,0,0,0,,Sen ne düşünüyorsun, Ars?
+Dialogue: 9,0:17:30.78,0:17:34.00,Default,Ars,0,0,0,,Couran-sama'nın ne dediğini anlıyorum.
+Dialogue: 9,0:17:34.00,0:17:35.03,Default,Ars,0,0,0,,Fakat...
+Dialogue: 9,0:17:35.78,0:17:40.58,Default,Ars,0,0,0,,Savaş gerçekten de barışı korumanın \ntek yolu mu?
+Dialogue: 9,0:17:41.62,0:17:42.58,Default,Ars,0,0,0,,Ve...
+Dialogue: 9,0:17:43.41,0:17:48.32,Default,Ars,0,0,0,,Bu sadece korkunç bir döngüye yol açmaz mı?
+Dialogue: 9,0:17:50.00,0:17:52.30,Default,Couran,0,0,0,,Hey, o kadar üzgün görünme!
+Dialogue: 9,0:17:52.30,0:17:54.44,Default,Couran,0,0,0,,Seni bir vasal olarak değerli görüyorum.
+Dialogue: 9,0:17:54.44,0:17:58.09,Default,Couran,0,0,0,,Bu yüzden fikrini almak istedim sadece.
+Dialogue: 9,0:18:00.02,0:18:02.49,Default,Couran,0,0,0,,Ne düşündüğünü duymayı çok isterim.
+Dialogue: 9,0:18:02.49,0:18:04.99,Default,Couran,0,0,0,,Bu yüzden cevabını bulduğunda bana bildir.
+Dialogue: 9,0:18:04.99,0:18:09.36,Default,Couran,0,0,0,,Gelecekte Missian'ın izleyebileceği en iyi yön nedir?
+Dialogue: 9,0:18:13.63,0:18:16.64,Default,Rietz,0,0,0,,Ars-sama? İyi misiniz?
+Dialogue: 9,0:18:16.64,0:18:18.64,Default,Rietz,0,0,0,,Kendinizi iyi hissetmiyorsanız...
+Dialogue: 9,0:18:18.64,0:18:21.87,Default,Mireille,0,0,0,,Belki de ona sürekli annesi gibi davrandığın için bunalmıştır.
+Dialogue: 9,0:18:21.87,0:18:22.94,Default,Rietz,0,0,0,,Ne dedin sen?!
+Dialogue: 9,0:18:22.94,0:18:25.12,Default,Ars,0,0,0,,Rietz-san, Mireille-san...
+Dialogue: 9,0:18:25.58,0:18:28.36,Default,Ars,0,0,0,,Döndüğümüzde, diğerlerini çağırabilir misiniz?
+Dialogue: 9,0:18:28.36,0:18:30.18,Default,Ars,0,0,0,,Onlarla konuşmak istiyorum.
+Dialogue: 9,0:18:30.72,0:18:32.93,Default,Ars,0,0,0,,Louvent Hanedanı'nın geleceği hakkında.
+Dialogue: 0,0:18:37.17,0:18:40.15,Default,Rietz,0,0,0,,{\an8}Couran-sama bunları mı söyledi?
+Dialogue: 0,0:18:40.15,0:18:40.89,Default,Ars,0,0,0,,{\an8}Evet.
+Dialogue: 9,0:18:41.21,0:18:45.48,Default,Mireille,0,0,0,,Sebebi ne olursa olsun, bağımsızlık konusunda kesin kararlı görünüyor.
+Dialogue: 9,0:18:45.48,0:18:48.89,Default,Mireille,0,0,0,,Muhtemelen bu açıklamayı yapması çok uzun sürmez.
+Dialogue: 9,0:18:49.18,0:18:54.15,Default,Mireille,0,0,0,,Ve yaptığında, Missian yeniden savaşa sürüklenecek.
+Dialogue: 9,0:18:57.47,0:19:02.41,Default,Ars,0,0,0,,İşte bu yüzden hepinizle Louvent Hanedanı'nın gelecekteki yönü hakkında konuşmak istiyorum.
+Dialogue: 9,0:19:02.41,0:19:04.59,Default,Braham,0,0,0,,Bağımsız olmanın ne sakıncası var?
+Dialogue: 9,0:19:04.59,0:19:05.91,Default,Braham,0,0,0,,Kulağa havalı ve güçlü geliyor!
+Dialogue: 9,0:19:05.91,0:19:10.75,Default,Rosell,0,0,0,,Fakat Seitz bunu bizi tekrar istila etmek için bir bahane olarak kullanabilir!
+Dialogue: 9,0:19:10.75,0:19:12.17,Default,Braham,0,0,0,,Ö-Öyle mi?
+Dialogue: 9,0:19:12.67,0:19:17.11,Default,Rietz,0,0,0,,İmparatorluk yanlısı Paradille de Missian'ın birleşmesine yardım etmişti.
+Dialogue: 9,0:19:17.11,0:19:21.55,Default,Rietz,0,0,0,,Bağımsızlık ilan etmek bize hainler olarak onların öfkesini kazandırır.
+Dialogue: 9,0:19:21.85,0:19:27.56,Default,Pham,0,0,0,,İmparatorluk ailesi de Missian'ı devirmek için ortak bir ordu kurabilir.
+Dialogue: 9,0:19:27.92,0:19:29.27,Default,Musia,0,0,0,,Bu çok korkunç.
+Dialogue: 9,0:19:29.27,0:19:31.37,Default,Musia,0,0,0,,Barışımızı henüz elde etmiştik...
+Dialogue: 9,0:19:31.37,0:19:33.81,Default,Musia,0,0,0,,Neden tekrar savaşa gitmek zorundayız ki?
+Dialogue: 9,0:19:37.69,0:19:42.70,Default,Mireille,0,0,0,,Şey, belki de gerçek barış \Nher zaman bir hayalden ibaretti.
+Dialogue: 9,0:19:42.70,0:19:47.30,Default,Mireille,0,0,0,,Tarihe dönüp baktığında, hiçbir savaşın olmadığı bir dönem asla olmamıştır.
+Dialogue: 9,0:19:47.30,0:19:49.20,Default,Mireille,0,0,0,,Savaşlar her zaman olur.
+Dialogue: 9,0:19:49.64,0:19:54.21,Default,Mireille,0,0,0,,Belli bir büyüklükteki krallıklar belli bir ölçekte birbirleriyle savaşır.
+Dialogue: 9,0:19:54.57,0:19:57.39,Default,Mireille,0,0,0,,Ve bunun karşılığında belli bir barış türünü korurlar.
+Dialogue: 9,0:19:58.03,0:20:02.22,Default,Mireille,0,0,0,,Belki de Couran bunun daha pratik bir yaklaşım olduğu konusunda haklıdır.
+Dialogue: 9,0:20:03.34,0:20:05.22,Default,Ars,0,0,0,,Gerçekten öyle mi düşünüyorsun?
+Dialogue: 9,0:20:05.75,0:20:10.98,Default,Ars,0,0,0,,Kalıcı barışın gerçekten imkânsız olduğunu mu düşünüyorsun?
+Dialogue: 9,0:20:11.58,0:20:14.35,Default,Ars,0,0,0,,Burada harika insanlarımız var.
+Dialogue: 9,0:20:14.80,0:20:19.23,Default,Ars,0,0,0,,Sizin yardımınızla gerçekten zor durumlardan kurtulduk.
+Dialogue: 9,0:20:19.76,0:20:23.74,Default,Ars,0,0,0,,Bunun işe yarama ihtimali bile varsa, bunu birlikte gerçeğe dönüştürmek istiyorum!
+Dialogue: 9,0:20:24.04,0:20:26.77,Default,Mireille,0,0,0,,Bunu gerçekten ciddi mi söylüyorsun?
+Dialogue: 9,0:20:26.77,0:20:30.75,Default,Mireille,0,0,0,,Barışı korumak, savaşı kazanmaktan daha da fazla güç gerektirir.
+Dialogue: 9,0:20:31.55,0:20:34.75,Default,Mireille,0,0,0,,Bu da tüm kıtayı kontrol altında tutacak gücü aramak demek...
+Dialogue: 9,0:20:35.19,0:20:37.31,Default,Mireille,0,0,0,,Bir imparatorun gücü.
+Dialogue: 9,0:20:38.55,0:20:42.13,Default,Mireille,0,0,0,,Kolay olmayacak. Daha önce bunu kimse yapmadı.
+Dialogue: 9,0:20:43.01,0:20:47.14,Default,Mireille,0,0,0,,Fakat sanırım sen yapabilirsin.
+Dialogue: 9,0:20:48.64,0:20:50.51,Default,Rosell,0,0,0,,Katılıyorum, Mireille!
+Dialogue: 9,0:20:50.51,0:20:55.00,Default,Rosell,0,0,0,,Ars-sama'nın daha da fazlasını yapmasına yardım etmek için bir stratejist olarak elimden geldiğince düşüneceğim!
+Dialogue: 9,0:20:55.00,0:20:59.02,Default,Rosell,0,0,0,,Ne de olsa senin için yapabileceğim tek şey düşünmek!
+Dialogue: 9,0:20:59.43,0:21:01.03,Default,Ars,0,0,0,,Rosell-kun...
+Dialogue: 9,0:21:01.03,0:21:02.18,Default,Charlotte,0,0,0,,Ars.
+Dialogue: 9,0:21:02.65,0:21:06.28,Default,Charlotte,0,0,0,,Çok önce bana verdiğin sözü hatırlıyor musun?
+Dialogue: 9,0:21:06.28,0:21:10.83,Default,Ars,0,0,0,,Çocukların umut sahibi olabileceği huzurlu bir yer yapma sözünü mü?
+Dialogue: 9,0:21:10.83,0:21:12.66,Default,Ars,0,0,0,,Elbette unutmadım.
+Dialogue: 9,0:21:13.04,0:21:16.42,Default,Charlotte,0,0,0,,O halde seninle geleceğim, Ars.
+Dialogue: 9,0:21:16.42,0:21:18.05,Default,Ars,0,0,0,,Charlotte-san.
+Dialogue: 9,0:21:18.50,0:21:20.53,Default,Rietz,0,0,0,,Sonsuz barış...
+Dialogue: 9,0:21:20.53,0:21:22.80,Default,Rietz,0,0,0,,Belki de bir hayalden ibaret.
+Dialogue: 9,0:21:23.18,0:21:27.81,Default,Rietz,0,0,0,,Fakat sürekli savaşla sarsılan bir dünyada böyle bir hayali savunmanın...
+Dialogue: 9,0:21:27.81,0:21:30.40,Default,Rietz,0,0,0,,İnanılmaz olduğunu düşünüyorum.
+Dialogue: 9,0:21:30.40,0:21:34.22,Default,Rietz,0,0,0,,Bunu yapabiliyor olman işte bu yüzden sana saygı duyuyorum.
+Dialogue: 9,0:21:38.09,0:21:40.73,Default,Ars,0,0,0,,Hepsinize teşekkür ederim.
+Dialogue: 9,0:21:41.55,0:21:42.71,Default,Ars,0,0,0,,İmparator...
+Dialogue: 9,0:21:44.31,0:21:47.95,Default,Ars,0,0,0,,Umarım bundan sonra da benimle olmaya devam edersiniz!
+Dialogue: 9,0:23:25.88,0:23:27.41,Default,Licia,0,0,0,,Bu arada, Ars-sama.
+Dialogue: 9,0:23:27.41,0:23:30.17,Default,Licia,0,0,0,,Son savaşta oldukça pervasız davrandığını duydum.
+Dialogue: 9,0:23:30.17,0:23:32.71,Default,Ars,0,0,0,,Bana kızgın mısın, Licia-san?
+Dialogue: 9,0:23:32.71,0:23:35.64,Default,Licia,0,0,0,,Eşin olarak, benimle iki çift laf etmeni talep ediyorum!
+Dialogue: 9,0:23:35.64,0:23:36.48,Default,Ars,0,0,0,,Kaçmalıyım!
+Dialogue: 9,0:23:36.48,0:23:37.60,Default,Ars,0,0,0,,Gelecek Bölüm: "Fujimiya."
+Dialogue: 9,0:23:37.60,0:23:39.47,Default,Licia,0,0,0,,Derhal buraya dön!
+Dialogue: 0,0:00:26.83,0:00:30.84,cr_sign_1,sign,0,0,0,,{\fad(500,500)\shad0\bord1\blur1\fnArial Black\c&HD6D1D2&\pos(320,292)\3c&H161B1A&}Arcantez Kalesi
+Dialogue: 0,0:00:32.67,0:00:35.30,cr_sign_1,sign,0,0,0,,{\fad(480,400)\fs18\shad1\bord1\fnTimes New Roman\b1\c&HC8CCC9&\3c&H232C28&\4c&H232C28&\pos(325,290)}Canses Vandol
+Dialogue: 0,0:00:37.97,0:00:40.85,cr_sign_1,sign,0,0,0,,{\fad(480,400)\fs18\shad1\bord1\fnTimes New Roman\b1\c&HC8CCC9&\3c&H232C28&\4c&H232C28&\pos(325,290)}Vasmarque Salamakhia
+Dialogue: 0,0:00:41.56,0:00:44.48,cr_sign_1,sign,0,0,0,,{\fad(480,400)\fs18\shad1\bord1\fnTimes New Roman\b1\c&HC8CCC9&\3c&H232C28&\4c&H232C28&\pos(325,290)}Couran Salamakhia
+Dialogue: 0,0:02:16.61,0:02:21.16,cr_sign_1,sign,0,0,0,,{\fad(520,480)\fs14\an3\shad1\bord1\fnTimes New Roman\b1\c&HCACAC9&\3c&H302F2E&\4c&H302F2E&\pos(605.83,316.351)}29. Bölüm     {\fs16}Vasmarque'ın Sonu
+Dialogue: 0,0:02:37.26,0:02:39.47,cr_sign_1,sign,0,0,0,,{\fad(480,400)\fs18\shad1\bord1\fnTimes New Roman\b1\c&HC8CCC9&\3c&H232C28&\4c&H232C28&\pos(325,290)}Lumeire Pyres
+Dialogue: 0,0:06:56.52,0:06:59.94,cr_sign_1,sign,0,0,0,,{\fad(550,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(175,307)}Arcantez
+Dialogue: 0,0:07:37.35,0:07:40.14,cr_sign_1,sign,0,0,0,,{\fad(500,500)\shad0\bord1\blur1\fnArial Black\c&HD6D1D2&\pos(320,292)\3c&H161B1A&}Arcantez Kalesi
+Dialogue: 0,0:14:01.88,0:14:04.88,cr_sign_1,Sign,0,0,0,,{\fad(550,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(175,307)}Couran'ın Niyetleri
+Dialogue: 0,0:18:33.50,0:18:36.76,cr_sign_1,sign,0,0,0,,{\fad(500,500)\shad0\bord1\blur1\fnArial Black\c&HD6D1D2&\pos(320,292)\3c&H161B1A&}Canarre Kalesi
+Dialogue: 0,0:18:37.17,0:18:40.68,cr_sign_1,sign,0,0,0,,{\fad(550,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(175,307)}Acil Bir Toplantı
+Dialogue: 0,0:23:37.62,0:23:40.07,cr_sign_1,Sign,0,0,0,,{\fad(480,1)\fs12\an3\shad1\bord1\fnTimes New Roman\b1\c&HC8CCC9&\3c&H232C28&\4c&H232C28&\fs14\pos(605,165.957)}Gelecek Bölüm     {\fs16}Fujimiya
