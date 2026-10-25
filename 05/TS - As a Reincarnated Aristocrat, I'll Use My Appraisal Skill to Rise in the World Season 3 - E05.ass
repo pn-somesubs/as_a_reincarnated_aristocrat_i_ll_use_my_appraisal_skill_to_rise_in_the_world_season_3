@@ -1,0 +1,29 @@
+[Script Info]
+Title: pn-SomeSubs - As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: cr_sign_1,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:26.83,0:00:30.84,cr_sign_1,sign,0,0,0,,{\fad(500,500)\shad0\bord1\blur1\fnArial Black\c&HD6D1D2&\pos(320,292)\3c&H161B1A&}Arcantez Kalesi
+Dialogue: 0,0:00:32.67,0:00:35.30,cr_sign_1,sign,0,0,0,,{\fad(480,400)\fs18\shad1\bord1\fnTimes New Roman\b1\c&HC8CCC9&\3c&H232C28&\4c&H232C28&\pos(325,290)}Canses Vandol
+Dialogue: 0,0:00:37.97,0:00:40.85,cr_sign_1,sign,0,0,0,,{\fad(480,400)\fs18\shad1\bord1\fnTimes New Roman\b1\c&HC8CCC9&\3c&H232C28&\4c&H232C28&\pos(325,290)}Vasmarque Salamakhia
+Dialogue: 0,0:00:41.56,0:00:44.48,cr_sign_1,sign,0,0,0,,{\fad(480,400)\fs18\shad1\bord1\fnTimes New Roman\b1\c&HC8CCC9&\3c&H232C28&\4c&H232C28&\pos(325,290)}Couran Salamakhia
+Dialogue: 0,0:02:16.61,0:02:21.16,cr_sign_1,sign,0,0,0,,{\fad(520,480)\fs14\an3\shad1\bord1\fnTimes New Roman\b1\c&HCACAC9&\3c&H302F2E&\4c&H302F2E&\pos(605.83,316.351)}29. Bölüm     {\fs16}Vasmarque'ın Sonu
+Dialogue: 0,0:02:37.26,0:02:39.47,cr_sign_1,sign,0,0,0,,{\fad(480,400)\fs18\shad1\bord1\fnTimes New Roman\b1\c&HC8CCC9&\3c&H232C28&\4c&H232C28&\pos(325,290)}Lumeire Pyres
+Dialogue: 0,0:06:56.52,0:06:59.94,cr_sign_1,sign,0,0,0,,{\fad(550,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(175,307)}Arcantez
+Dialogue: 0,0:07:37.35,0:07:40.14,cr_sign_1,sign,0,0,0,,{\fad(500,500)\shad0\bord1\blur1\fnArial Black\c&HD6D1D2&\pos(320,292)\3c&H161B1A&}Arcantez Kalesi
+Dialogue: 0,0:14:01.88,0:14:04.88,cr_sign_1,Sign,0,0,0,,{\fad(550,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(175,307)}Couran'ın Niyetleri
+Dialogue: 0,0:18:33.50,0:18:36.76,cr_sign_1,sign,0,0,0,,{\fad(500,500)\shad0\bord1\blur1\fnArial Black\c&HD6D1D2&\pos(320,292)\3c&H161B1A&}Canarre Kalesi
+Dialogue: 0,0:18:37.17,0:18:40.68,cr_sign_1,sign,0,0,0,,{\fad(550,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(175,307)}Acil Bir Toplantı
+Dialogue: 0,0:23:37.62,0:23:40.07,cr_sign_1,Sign,0,0,0,,{\fad(480,1)\fs12\an3\shad1\bord1\fnTimes New Roman\b1\c&HC8CCC9&\3c&H232C28&\4c&H232C28&\fs14\pos(605,165.957)}Gelecek Bölüm     {\fs16}Fujimiya
