@@ -1,0 +1,289 @@
+[Script Info]
+Title: pn-SomeSubs - As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Main - Top + Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback - Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top + Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:07.00,Default,Ars,0,0,0,,{\fs17\an7\fe162\b\fad(400,400)\bord2\blur5\shad\4c&H000000&\4a&HFF&\fnSweetest Cat Ever\pos(6,-5.67)}\N{\pos(20,1)}{\c&HFFFF00&}{\4c&H8485E4&}SomeSub ekip arkadaşı arıyor!\N{\pos(60,63)}{\c&HFFFFFF&}Çevirmen:{\c&HFFFF00&} Umav\N{\pos(60,111)}{\c&HFFFFFF&}Encode:{\c&HFFFF00&} Velnoxy\N{\pos(60,111)}{\c&HFFFFFF&}Redaktör:{\c&HFFFF00&} Umav\N{\c&HFFFFFF&}Discord:{\c&HFFFF00&} discord.gg/somesub
+Dialogue: 0,0:00:04.00,0:00:05.98,Default,Ars,0,0,0,,Bir lord olabilmemin tek nedeni...
+Dialogue: 0,0:00:06.72,0:00:09.48,Default,Ars,0,0,0,,İnsanların bunu başarabileceğime inanması!
+Dialogue: 0,0:00:09.48,0:00:13.74,Default,Ars,0,0,0,,Bu yüzden adamlarıma zarar vermene izin veremem!
+Dialogue: 0,0:00:16.88,0:00:19.87,Default,Rikuya,0,0,0,,Bunu başarabileceğine mi inanıyorlar?
+Dialogue: 0,0:00:27.23,0:00:29.13,Default,Bandit 1,0,0,0,,Vigo-sama! Kötü haber!
+Dialogue: 0,0:00:29.13,0:00:32.55,Default,sign,0,0,0,,{\fad(500,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(175,307)}Karşı Saldırı Başlıyor
+Dialogue: 0,0:00:29.39,0:00:32.55,Main - Top,Vigo,0,0,0,,Şimdi ne var? Size beklemenizi söylemiştim—
+Dialogue: 0,0:00:35.37,0:00:38.82,Default,Vigo,0,0,0,,Pekâlâ. O hâlde gözünüz üzerlerinde olsun.
+Dialogue: 0,0:00:39.37,0:00:40.25,Default,Bandits,0,0,0,,Emredersiniz!
+Dialogue: 0,0:00:43.39,0:00:44.94,Default,Vigo,0,0,0,,Birazdan dönerim.
+Dialogue: 0,0:01:00.01,0:01:01.14,Default,Ars,0,0,0,,Rietz-san...
+Dialogue: 0,0:01:03.21,0:01:04.17,Default,Rietz,0,0,0,,Ars-sama!
+Dialogue: 0,0:01:09.24,0:01:11.35,Default,Rietz,0,0,0,,Bu yaralar...
+Dialogue: 0,0:01:11.35,0:01:13.51,Default,Ars,0,0,0,,İyiyim.
+Dialogue: 0,0:01:14.00,0:01:15.89,Default,Rietz,0,0,0,,Beni neden korudunuz?!
+Dialogue: 0,0:01:17.46,0:01:21.58,Default,Ars,0,0,0,,Buradan kurtulabilmemiz için \Nsenin sapasağlam olman gerek.
+Dialogue: 0,0:01:22.22,0:01:23.35,Default,Ars,0,0,0,,Bir de...
+Dialogue: 0,0:01:23.74,0:01:27.66,Default,Ars,0,0,0,,Seni gerçekten önemsiyorum.
+Dialogue: 0,0:01:28.21,0:01:29.94,Default,Ars,0,0,0,,İyi olmana sevindim.
+Dialogue: 0,0:01:31.96,0:01:33.07,Default,Rietz,0,0,0,,Ars-sama...
+Dialogue: 0,0:01:41.52,0:01:43.80,Default,Rikuya,0,0,0,,Dışarıda bir şeyler olmuş olmalı.
+Dialogue: 0,0:01:43.80,0:01:45.29,Default,Rikuya,0,0,0,,Bu bizim fırsatımız olabilir.
+Dialogue: 0,0:01:48.97,0:01:53.31,Default,Rikuya,0,0,0,,Maika ile Takao'yu kurtarıp \Nburadan kaçalım!
+Dialogue: 0,0:03:36.73,0:03:40.15,Default,sign,0,0,0,,{\fad(500,500)\shad0\bord1\blur1\fnArial Black\c&HD6D1D2&\pos(320,292)\3c&H161B1A&}Saatler Önce
+Dialogue: 0,0:03:42.72,0:03:43.96,Default,Bandit B,0,0,0,,Ne oldu, çaylak?
+Dialogue: 0,0:03:44.58,0:03:46.41,Default,Zaht,0,0,0,,Bir şey yok.
+Dialogue: 0,0:03:50.27,0:03:52.08,Flashback,Thomas,0,0,0,,Plan şöyle.
+Dialogue: 0,0:03:52.53,0:03:57.64,Flashback,Thomas,0,0,0,,İçeri sızdıktan sonra üssün çeşitli \Nyerlerine patlayıcılar yerleştireceksin.
+Dialogue: 0,0:03:58.16,0:04:03.59,Flashback,Thomas,0,0,0,,Ars'ı hücresinden çıkardıktan sonra \Nbizi haberdar etmek için onları patlat.
+Dialogue: 0,0:04:04.05,0:04:06.47,Flashback,Zaht,0,0,0,,Dumanla işaret vermek için \Nbayağı gösterişli bir yöntem.
+Dialogue: 0,0:04:06.82,0:04:13.23,Flashback,Thomas,0,0,0,,İçeri girdiğimizde kargaşadan \Nyararlanıp Ars'la birlikte kaç.
+Dialogue: 0,0:04:13.75,0:04:16.84,Flashback,Thomas,0,0,0,,İşte kalenin krokisi. \NBunu ezberlemeni istiyorum.
+Dialogue: 0,0:04:21.01,0:04:23.49,Default,Zaht,0,0,0,,Bu arada zindan bodrum katında, değil mi?
+Dialogue: 0,0:04:23.49,0:04:24.72,Default,Bandit B,0,0,0,,Evet.
+Dialogue: 0,0:04:24.72,0:04:27.33,Default,Bandit B,0,0,0,,Hey, bunu nereden biliyorsun?!
+Dialogue: 0,0:04:28.40,0:04:30.32,Default,Bandit B,0,0,0,,Ha? Nereye gitti?
+Dialogue: 0,0:04:33.00,0:04:34.21,Default,Zaht,0,0,0,,Ars-sama!
+Dialogue: 0,0:04:38.72,0:04:41.88,Default,Zaht,0,0,0,,Siz kimsiniz? \NArs-sama nerede?
+Dialogue: 0,0:04:41.88,0:04:45.51,Default,Maika,0,0,0,,Efendim! Ars-dono'nun \Nsözünü ettiği yardım siz misiniz?!
+Dialogue: 0,0:04:46.09,0:04:47.77,Default,Zaht,0,0,0,,Ars-sama'yı tanıyor musunuz?
+Dialogue: 0,0:04:47.77,0:04:53.24,Default,Maika,0,0,0,,Evet! Ağabeyimiz ve Rietz-dono ile birlikte \Nonların patronunun yanına götürüldü!
+Dialogue: 0,0:04:53.24,0:04:55.19,Default,Zaht,0,0,0,,Anladım. Onları bulacağım.
+Dialogue: 0,0:04:55.19,0:04:56.22,Default,Maika,0,0,0,,Bekleyin!
+Dialogue: 0,0:04:56.22,0:04:58.19,Default,Maika,0,0,0,,Yalvarırım! Bizi de yanınıza alın!
+Dialogue: 0,0:04:59.76,0:05:01.03,Default,Zaht,0,0,0,,Olmaz.
+Dialogue: 0,0:05:01.03,0:05:04.02,Default,Zaht,0,0,0,,İki mahkûmla birlikte dolaşırsam\Nfazla dikkat çekerim.
+Dialogue: 0,0:05:05.03,0:05:06.06,Default,Maika,0,0,0,,Lütfen.
+Dialogue: 0,0:05:07.45,0:05:11.70,Default,Maika,0,0,0,,Ağabeyimiz dünyada sahip olduğumuz tek ailemiz.
+Dialogue: 0,0:05:19.83,0:05:20.97,Default,Zaht,0,0,0,,Pekâlâ.
+Dialogue: 0,0:05:21.40,0:05:24.56,Default,Zaht,0,0,0,,Şuradaki adam dövüşte \Nişe yarayacak gibi görünüyor.
+Dialogue: 0,0:05:25.35,0:05:26.69,Default,Zaht,0,0,0,,Yardımını kabul ediyorum.
+Dialogue: 0,0:05:39.02,0:05:41.18,Default,Maika,0,0,0,,Üçü de patronun odasında olmalı!
+Dialogue: 0,0:05:41.18,0:05:43.98,Default,Zaht,0,0,0,,Patronun odası mı? Şu kuleyi mi diyorsun?
+Dialogue: 0,0:05:51.44,0:05:53.58,Default,Bandit B,0,0,0,,Mahkûmlar kaçıyor! Yakalayın onları!
+Dialogue: 0,0:05:57.28,0:06:00.00,Default,Maika,0,0,0,,Takao! Çatıya atla!
+Dialogue: 0,0:06:05.30,0:06:07.13,Default,Bandit B,0,0,0,,Çatılardan kaçıyorlar!
+Dialogue: 0,0:06:07.68,0:06:10.32,Default,Bandit B,0,0,0,,Yakalayın onları! Hey, tutun şunları!
+Dialogue: 0,0:06:10.32,0:06:11.89,Default,Maika,0,0,0,,Takao, atla!
+Dialogue: 0,0:06:22.43,0:06:24.90,Default,Bandit 3,0,0,0,,Sadece üç kişiler! İndirin onları!
+Dialogue: 0,0:06:34.37,0:06:38.21,Default,sign,0,0,0,,{\fad(500,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(175,307)}Fujimiya Hanesi'nin Yetenekleri
+Dialogue: 0,0:06:41.44,0:06:44.42,Default,Bandit 4,0,0,0,,Buradan öyle kolayca çıkamazsınız.
+Dialogue: 0,0:06:46.53,0:06:48.25,Default,Zaht,0,0,0,,Bu iş benim boyumu aşıyor galiba.
+Dialogue: 0,0:06:48.85,0:06:49.77,Default,Maika,0,0,0,,Takao.
+Dialogue: 0,0:06:51.20,0:06:53.76,Default,Maika,0,0,0,,Onlara Fujimiya Hanesi'nin gücünü göster!
+Dialogue: 0,0:06:53.76,0:06:54.66,Default,Takao,0,0,0,,Başüstüne!
+Dialogue: 0,0:07:11.81,0:07:14.16,Default,Bandits,0,0,0,,İmkânsız! Tek yumrukta mı?!
+Dialogue: 0,0:07:14.59,0:07:18.56,Default,Zaht,0,0,0,,Güzel iş. Seni birliğimde görmeyi isterdim.
+Dialogue: 0,0:07:20.20,0:07:23.54,Default,Bandits,0,0,0,,Bunlar canavar!
+Dialogue: 0,0:07:29.85,0:07:32.26,Default,Vigo,0,0,0,,Rehineleri görmek istiyorsunuz, öyle mi?
+Dialogue: 0,0:07:33.43,0:07:37.56,Default,Vigo,0,0,0,,Ama önce benimle biraz eğlenmeniz gerekecek.
+Dialogue: 0,0:07:37.56,0:07:38.97,Default,Bandits,0,0,0,,Patron Vigo!
+Dialogue: 0,0:07:38.97,0:07:40.32,Default,Bandits,0,0,0,,Patron geldi!
+Dialogue: 0,0:07:47.82,0:07:50.61,Main - Italics,Zaht,0,0,0,,Çok hızlı... Üstelik bir de çok güçlü!
+Dialogue: 0,0:07:59.48,0:08:02.10,Default,Maika,0,0,0,,Yakınına girersen o gücünü kullanamaz!
+Dialogue: 0,0:08:02.10,0:08:02.87,Default,Takao,0,0,0,,Anlaşıldı!
+Dialogue: 0,0:08:07.25,0:08:07.96,Default,Maika,0,0,0,,Takao!
+Dialogue: 0,0:08:10.13,0:08:11.39,Default,Vigo,0,0,0,,Geber!
+Dialogue: 0,0:08:11.84,0:08:13.03,Default,Maika,0,0,0,,Takao!
+Dialogue: 0,0:08:18.31,0:08:20.08,Default,Vigo,0,0,0,,Ne oldu?
+Dialogue: 0,0:08:20.08,0:08:23.31,Default,Vigo,0,0,0,,Benim için bu, ısınma turundan bile sayılmaz.
+Dialogue: 0,0:08:29.96,0:08:34.22,Default,Zaht,0,0,0,,Vay be. Beni bayağı terlettin.
+Dialogue: 0,0:08:35.43,0:08:38.14,Default,Vigo,0,0,0,,Ne oldu, şimdiden pes mi ediyorsun?
+Dialogue: 0,0:08:39.12,0:08:42.58,Default,Zaht,0,0,0,,Ars-sama ve Rietz-san içeride, değil mi?
+Dialogue: 0,0:08:42.95,0:08:45.44,Default,Vigo,0,0,0,,Tahmin etmiştim. Canarre'nin adamısın.
+Dialogue: 0,0:08:45.44,0:08:48.84,Default,Vigo,0,0,0,,Ama kahramanlık gösterini \Ntamamlayamadın.
+Dialogue: 0,0:08:49.18,0:08:50.30,Default,Zaht,0,0,0,,Evet.
+Dialogue: 0,0:08:51.62,0:08:54.24,Default,Zaht,0,0,0,,Sanırım gerisini \Ndiğerlerine bırakacağım.
+Dialogue: 0,0:09:04.01,0:09:06.23,Default,Bandits,0,0,0,,Her yerde patlamalar oluyor!
+Dialogue: 0,0:09:06.53,0:09:10.11,Default,Zaht,0,0,0,,Yüz kişilik seçkin birlik \Nşu anda buraya geliyor.
+Dialogue: 0,0:09:10.11,0:09:12.78,Default,Zaht,0,0,0,,Hepinizin sonu geldi.
+Dialogue: 0,0:09:13.21,0:09:16.03,Default,Vigo,0,0,0,,Ne? Sadece yüz kişi mi?
+Dialogue: 0,0:09:16.40,0:09:20.15,Default,Vigo,0,0,0,,Burada beş yüz kişiyiz! \NBize karşı hiç şansınız yok!
+Dialogue: 0,0:09:22.04,0:09:24.29,Default,Zaht,0,0,0,,Beş yüz kişinin yeterli olduğunu mu sanıyorsun?
+Dialogue: 0,0:09:25.28,0:09:26.29,Default,Vigo,0,0,0,,Ne demek istiyorsun?
+Dialogue: 0,0:09:26.29,0:09:31.30,Default,Zaht,0,0,0,,Bu birlik, Canarre'yi 80.000 Seitz askerinden korudu.
+Dialogue: 0,0:09:31.50,0:09:34.97,Default,sign,0,0,0,,{\fad(500,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(172,307)}Kaçış
+Dialogue: 0,0:09:42.56,0:09:45.47,Default,Braham,0,0,0,,Canarre'nin seçkin birliği geldi!
+Dialogue: 0,0:09:45.47,0:09:48.06,Default,Braham,0,0,0,,Yaşamak istiyorsanız gözüme gözükmeyin!
+Dialogue: 0,0:09:54.12,0:09:58.24,Default,Braham,0,0,0,,Bunca düşünceden sonra \Nbiraz stres atmam gerek.
+Dialogue: 0,0:09:58.24,0:10:00.21,Default,Braham,0,0,0,,Şimdi ortalığı dağıtma zamanı!
+Dialogue: 0,0:10:00.21,0:10:04.27,Default,Thomas,0,0,0,,Kendine güvenmen güzel, \Nama hedefini unutma.
+Dialogue: 0,0:10:04.55,0:10:08.29,Default,Thomas,0,0,0,,Bu planın asıl amacı \NArs Louvent'i kurtarmak.
+Dialogue: 0,0:10:08.78,0:10:10.00,Default,Thomas,0,0,0,,Anlaşıldı mı?
+Dialogue: 0,0:10:10.38,0:10:11.63,Default,Braham,0,0,0,,Sorun yok!
+Dialogue: 0,0:10:12.12,0:10:13.54,Default,Bandit Z,0,0,0,,Ana kapıdalar!
+Dialogue: 0,0:10:13.54,0:10:15.82,Default,Bandit X,0,0,0,,Buraya kadar gelebileceklerini mi sanıyorsun?!
+Dialogue: 0,0:10:16.32,0:10:20.57,Default,Zaht,0,0,0,,Bir zamanlar Seitz askeri olduğun için \Nonların ne kadar iyi olduğunu bilirsin.
+Dialogue: 0,0:10:21.72,0:10:22.82,Default,Vigo,0,0,0,,Bu daha bitmedi!
+Dialogue: 0,0:10:22.82,0:10:25.06,Default,Vigo,0,0,0,,Hâlâ rehinelerim var!
+Dialogue: 0,0:10:29.81,0:10:31.56,Default,Vigo,0,0,0,,Siz üçünüz!
+Dialogue: 0,0:10:31.56,0:10:34.04,Default,Zaht,0,0,0,,Biraz geciktin, Rietz-san.
+Dialogue: 0,0:10:34.04,0:10:35.07,Default,Maika/Takao,0,0,0,,Ağabey!
+Dialogue: 0,0:10:35.07,0:10:37.28,Default,Rikuya,0,0,0,,Maika! Takao!
+Dialogue: 0,0:10:38.00,0:10:40.78,Default,Rietz,0,0,0,,Bize gerçekten de \Nçok çektirdiniz.
+Dialogue: 0,0:10:41.14,0:10:43.76,Default,Rietz,0,0,0,,Ars-sama'ya zarar vermekle \Nbüyük aptallık ettiniz.
+Dialogue: 0,0:10:44.56,0:10:46.24,Default,Rietz,0,0,0,,Şimdi hak ettiğinizi bulacaksınız!
+Dialogue: 0,0:10:50.98,0:10:54.30,Default,Rietz,0,0,0,,Şerefsiz herif!
+Dialogue: 0,0:11:03.48,0:11:06.14,Default,Rietz,0,0,0,,Sana dokunmak bile kendimi kirli hissettiriyor.
+Dialogue: 0,0:11:06.94,0:11:08.00,Default,Bandits,0,0,0,,Patron!
+Dialogue: 0,0:11:08.00,0:11:10.65,Default,Bandits,0,0,0,,Vigo-sama... yenildi mi?!
+Dialogue: 0,0:11:14.13,0:11:16.40,Default,Ars,0,0,0,,Çok teşekkürler, Zaht-san!
+Dialogue: 0,0:11:16.40,0:11:18.39,Default,Ars,0,0,0,,Bizi kurtarmaya geldin, değil mi?
+Dialogue: 0,0:11:18.39,0:11:19.28,Default,Zaht,0,0,0,,Dur bakalım.
+Dialogue: 0,0:11:20.01,0:11:22.58,Default,Zaht,0,0,0,,Görünen o ki epey zor günler geçirmişsiniz.
+Dialogue: 0,0:11:22.58,0:11:25.28,Default,Zaht,0,0,0,,Licia-sama'nın ne diyeceğini \Ndüşünmek bile istemiyorum.
+Dialogue: 0,0:11:27.01,0:11:29.21,Default,Rietz,0,0,0,,Yardımın için teşekkürler, Zaht.
+Dialogue: 0,0:11:29.21,0:11:33.29,Default,Rietz,0,0,0,,Yarattığın dikkat dağıtma\N sayesinde kaçmayı başardık.
+Dialogue: 0,0:11:33.29,0:11:35.23,Default,Zaht,0,0,0,,Önemli değil.
+Dialogue: 0,0:11:35.23,0:11:38.36,Default,Zaht,0,0,0,,Senden teşekkür duymak \Ngarip geliyor, Rietz-san.
+Dialogue: 0,0:11:38.36,0:11:39.80,Default,Maika,0,0,0,,Ağabey!
+Dialogue: 0,0:11:40.19,0:11:42.10,Default,Maika,0,0,0,,Yaralanmışsın!
+Dialogue: 0,0:11:42.10,0:11:45.31,Default,Rikuya,0,0,0,,İyiyim. İkinizin de güvende olmasına sevindim.
+Dialogue: 0,0:11:46.07,0:11:48.31,Default,Maika,0,0,0,,Kılıcı da geri almışsın!
+Dialogue: 0,0:11:49.12,0:11:50.62,Default,Rikuya,0,0,0,,E-Evet...
+Dialogue: 0,0:11:56.01,0:11:58.57,Default,Rietz,0,0,0,,Artık pes et, Vigo.
+Dialogue: 0,0:12:00.88,0:12:03.82,Default,Vigo,0,0,0,,Buradan sağ çıkacağınızı sanmayın.
+Dialogue: 0,0:12:10.28,0:12:12.07,Default,Braham,0,0,0,,B-Bu da neydi?!
+Dialogue: 0,0:12:12.07,0:12:13.00,Default,Thomas,0,0,0,,Sakın...
+Dialogue: 0,0:12:13.25,0:12:15.29,Default,Ars,0,0,0,,Y-Yine mi patlama?
+Dialogue: 0,0:12:15.29,0:12:16.71,Default,Zaht,0,0,0,,Onlar benim patlayıcılarım değildi!
+Dialogue: 0,0:12:20.22,0:12:22.99,Default,Vigo,0,0,0,,Ben düşüyorsam sizi de yanımda götüreceğim!
+Dialogue: 0,0:12:22.99,0:12:25.82,Default,Vigo,0,0,0,,Hepiniz burada öleceksiniz!
+Dialogue: 0,0:12:34.08,0:12:35.48,Default,Bandits,0,0,0,,Kale çöküyor!
+Dialogue: 0,0:12:35.76,0:12:37.22,Default,Bandits,0,0,0,,Kaçın!
+Dialogue: 0,0:12:37.22,0:12:38.77,Default,Rietz,0,0,0,,Zaht! Gidelim!
+Dialogue: 0,0:12:38.77,0:12:41.02,Default,Zaht,0,0,0,,Tamam! Herkes acele etsin!
+Dialogue: 0,0:13:05.42,0:13:06.39,Default,Rietz,0,0,0,,Bu gidişle...
+Dialogue: 0,0:13:06.95,0:13:09.31,Default,Zaht,0,0,0,,Buraya! Bu yoldan çıkacağız!
+Dialogue: 0,0:13:17.95,0:13:20.04,Default,Maika,0,0,0,,O-Oradan mı geçeceğiz?
+Dialogue: 0,0:13:20.04,0:13:21.36,Default,Zaht,0,0,0,,Başka yol yok!
+Dialogue: 0,0:13:21.36,0:13:22.44,Default,Zaht,0,0,0,,Acele edin!
+Dialogue: 0,0:13:26.25,0:13:27.36,Default,Maika,0,0,0,,Takao!
+Dialogue: 0,0:13:28.27,0:13:30.12,Default,Takao,0,0,0,,Ağabey, dikkat et!
+Dialogue: 0,0:13:33.83,0:13:35.00,Default,Zaht,0,0,0,,İyi misiniz?
+Dialogue: 0,0:13:49.39,0:13:50.97,Default,Rikuya,0,0,0,,Kılıç!
+Dialogue: 0,0:13:52.11,0:13:53.81,Default,Zaht,0,0,0,,Ne yapıyorsun? Öleceksin!
+Dialogue: 0,0:13:57.06,0:13:58.15,Default,Rietz,0,0,0,,Ars-sama!
+Dialogue: 0,0:14:19.40,0:14:22.54,Default,Zaht,0,0,0,,Hadi! Her yer çökecek!
+Dialogue: 0,0:14:28.02,0:14:29.60,Default,Maika,0,0,0,,Gitmeyeceğiz.
+Dialogue: 0,0:14:31.84,0:14:34.06,Default,Maika,0,0,0,,Kılıcı geride bırakamayız!
+Dialogue: 0,0:14:34.06,0:14:36.93,Default,Rikuya,0,0,0,,Ne diyorsunuz siz? \Nİkiniz de buraya gelin!
+Dialogue: 0,0:14:36.93,0:14:41.44,Default,Maika,0,0,0,,Onu bırakırsak kılıç \Nçöküntünün altında kaybolacak!
+Dialogue: 0,0:14:41.83,0:14:45.94,Default,Takao,0,0,0,,Kılıcı geri alıp \Nbaşka bir yoldan kaçacağız!
+Dialogue: 0,0:14:45.94,0:14:49.70,Default,Zaht,0,0,0,,Bu intihar demek, lanet olsun! \NHemen buraya gelin!
+Dialogue: 0,0:14:51.74,0:14:55.99,Default,Maika,0,0,0,,Yoh Krallığı'nın ayakta kalması \Nbizim hayatlarımızdan daha önemli!
+Dialogue: 0,0:14:56.55,0:15:01.39,Default,Maika,0,0,0,,Tahta geri dönüp kral olabilmeniz için \No kılıca ihtiyacımız var!
+Dialogue: 0,0:15:02.00,0:15:04.85,Default,Rikuya,0,0,0,,Maika! Takao! Ben—
+Dialogue: 0,0:15:04.85,0:15:05.86,Default,Maika,0,0,0,,Ağabey!
+Dialogue: 0,0:15:07.36,0:15:10.50,Default,Maika,0,0,0,,Ars-dono harika bir lider.
+Dialogue: 0,0:15:10.50,0:15:12.72,Default,Maika,0,0,0,,Eminim sana yardım edecektir.
+Dialogue: 0,0:15:13.48,0:15:17.73,Default,Maika,0,0,0,,Çocukluğumuzdan beri \Nbize hep cömert davrandın.
+Dialogue: 0,0:15:18.61,0:15:23.10,Default,Maika,0,0,0,,Seni kral yapabilmeyi \Nhep istedik.
+Dialogue: 0,0:15:25.91,0:15:30.92,Default,Maika,0,0,0,,Sana hizmet etmek bizim için \Nher zaman bir onurdu.
+Dialogue: 0,0:15:39.36,0:15:41.40,Default,Maika,0,0,0,,Ağabey? Neden?!
+Dialogue: 0,0:15:43.90,0:15:46.02,Default,Rikuya,0,0,0,,Ben bir aptalmışım.
+Dialogue: 0,0:15:46.02,0:15:48.95,Default,Rikuya,0,0,0,,İhtiyacım olan şey krallığımı kanıtlamak değilmiş.
+Dialogue: 0,0:15:50.65,0:15:52.86,Default,Rikuya,0,0,0,,Bunu anlamam bu kadar\N uzun sürdüğü için özür dilerim.
+Dialogue: 0,0:15:53.40,0:15:55.36,Default,Rikuya,0,0,0,,Ama Ars-dono bana şunu öğretti...
+Dialogue: 0,0:15:55.86,0:16:01.14,Default,Rikuya,0,0,0,,Kılıç olmasa bile, siz \Nyanımdayken zaten bir kralım!
+Dialogue: 0,0:16:02.63,0:16:08.11,Default,Rikuya,0,0,0,,Sonsuza dek yanımda kalıp \Nbana hizmet eder misiniz?
+Dialogue: 0,0:16:13.87,0:16:16.36,Default,Maika,0,0,0,,Elbette, ağabey.
+Dialogue: 0,0:16:16.36,0:16:18.34,Default,Maika,0,0,0,,Sana sonsuza dek hizmet edeceğiz.
+Dialogue: 0,0:16:24.08,0:16:26.14,Default,Zaht,0,0,0,,Siz üçünüz, buraya gelin!
+Dialogue: 0,0:16:57.37,0:16:59.08,Default,Braham,0,0,0,,Hey!
+Dialogue: 0,0:17:04.82,0:17:07.34,Main - Italics,Ars,0,0,0,,Kale tamamen çöktü.
+Dialogue: 0,0:17:07.34,0:17:09.71,Main - Italics,Ars,0,0,0,,Yangın ise ertesi gün boyunca \Nyanmaya devam etti.
+Dialogue: 0,0:17:10.89,0:17:15.37,Main - Italics,Ars,0,0,0,,Haydutlar gözaltına alındı. \NVigo bile sağ ele geçirildi.
+Dialogue: 0,0:17:17.59,0:17:19.52,Main - Italics,Ars,0,0,0,,Ve sonra...
+Dialogue: 0,0:17:26.34,0:17:27.65,Default,Maika,0,0,0,,Ağabey!
+Dialogue: 0,0:17:33.73,0:17:38.15,Main - Italics,Ars,0,0,0,,"Kaybolsa bile, layık olan krala geri döner."
+Dialogue: 0,0:17:38.74,0:17:42.38,Main - Italics,Ars,0,0,0,,Görünüşe göre bu, \NEjderha Avcısı Kılıcı'yla ilgili bir efsaneydi.
+Dialogue: 0,0:17:43.29,0:17:46.29,Default,sign,0,0,0,,{\fad(500,500)\shad0\bord1\blur1\fnArial Black\c&HD6D1D2&\pos(320,292)\3c&H161B1A&}Canarre Kalesi
+Dialogue: 0,0:17:47.60,0:17:48.79,Default,Rikuya,0,0,0,,Ars-dono!
+Dialogue: 0,0:17:48.79,0:17:52.17,Default,sign,0,0,0,,{\fad(500,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(175,307)}Fujimiya Hanesi'nin Ardından
+Dialogue: 0,0:17:49.57,0:17:52.86,Main - Top,Rikuya,0,0,0,,Bize ettiğiniz yardımlar için \Nsize en içten şükranlarımı sunarım!
+Dialogue: 0,0:17:53.42,0:17:56.17,Default,Ars,0,0,0,, Lütfen, buna hemen son verin!
+Dialogue: 0,0:17:56.66,0:18:01.36,Default,Ars,0,0,0,,Haydutları ortadan kaldırmamıza \Nyardım ettiğiniz için asıl ben teşekkür ederim.
+Dialogue: 0,0:18:01.36,0:18:04.34,Default,Ars,0,0,0,,Bu diyarın lordu olarak \Nsana nasıl teşekkür edeceğimi bilemiyorum.
+Dialogue: 0,0:18:04.82,0:18:07.69,Default,Ars,0,0,0,,Size minnettarım.
+Dialogue: 0,0:18:09.42,0:18:10.90,Default,Maika,0,0,0,,Bizi affedin!
+Dialogue: 0,0:18:11.82,0:18:16.19,Default,Maika,0,0,0,,İlk tanıştığımızda \Ndavranışlarım hiç hoş değildi.
+Dialogue: 0,0:18:16.49,0:18:21.87,Default,Maika,0,0,0,,Ama hem size hem de adamlarınıza \Nçok şey borçluyuz.
+Dialogue: 0,0:18:22.49,0:18:27.37,Default,Maika,0,0,0,,Bizi ve ağabeyimizi kurtardığınız için \Nteşekkürlerimi sunmama izin verin.
+Dialogue: 0,0:18:29.30,0:18:31.92,Default,Maika,0,0,0,,Takao, sen de teşekkür et!
+Dialogue: 0,0:18:33.21,0:18:34.96,Default,Takao,0,0,0,,Teşekkürler, Ars-dono!
+Dialogue: 0,0:18:35.23,0:18:39.12,Default,Takao,0,0,0,,Bize ziyafet veren kale çalışanlarına teşekkür ederim!
+Dialogue: 0,0:18:39.12,0:18:41.47,Default,Maika,0,0,0,,Aklında sadece yemek var!
+Dialogue: 0,0:18:42.76,0:18:44.77,Default,Rikuya,0,0,0,,Size ne kadar teşekkür etsem az.
+Dialogue: 0,0:18:45.62,0:18:49.48,Default,Rikuya,0,0,0,,Bana gerçek bir lider olmayı öğrettiniz.
+Dialogue: 0,0:18:49.91,0:18:54.56,Default,Rikuya,0,0,0,,Ayrıca kardeşlerimin herhangi bir kılıçtan \Ndaha önemli olduğunu da.
+Dialogue: 0,0:18:54.56,0:18:57.43,Default,Ars,0,0,0,,Hayır, sana hiçbir şey öğretmedim...
+Dialogue: 0,0:18:57.43,0:19:02.74,Default,Ars,0,0,0,,Ama iki lider olarak birbirimizden \Nbir şeyler öğrenebilmeyi umuyorum.
+Dialogue: 0,0:19:03.05,0:19:08.50,Default,Rikuya,0,0,0,,Evet. Bu ikisine layık bir kral \Nolmak istiyorum.
+Dialogue: 0,0:19:10.64,0:19:12.78,Default,Rietz,0,0,0,,Bundan sonra ne yapmayı düşünüyorsunuz?
+Dialogue: 0,0:19:13.60,0:19:18.76,Default,Rikuya,0,0,0,,Ars-dono'nun yaklaşan savaş için \Nasker topladığını duydum.
+Dialogue: 0,0:19:19.31,0:19:22.79,Default,Rikuya,0,0,0,,İlk tanıştığımızda, \Nbize ilgi göstermiştiniz çünkü...
+Dialogue: 0,0:19:22.79,0:19:26.08,Default,Rikuya,0,0,0,,Olası adamlarınız olarak yeteneklerimizi \Ndeğerlendirmek istemiştiniz, değil mi?
+Dialogue: 0,0:19:26.08,0:19:30.35,Default,Ars,0,0,0,,Özür dilerim! Ben yalnızca \Nteklifte bulunmak istemiştim!
+Dialogue: 0,0:19:30.35,0:19:33.65,Default,Ars,0,0,0,,O sırada kraliyet ailesinden olduğunuzu \Nkesinlikle bilmiyordum...
+Dialogue: 0,0:19:33.98,0:19:36.99,Default,Rikuya,0,0,0,,Elbette, kötü bir niyetiniz \Nolmadığını biliyorum.
+Dialogue: 0,0:19:37.47,0:19:39.93,Default,Rikuya,0,0,0,,Ama ben de bir kralım.
+Dialogue: 0,0:19:39.93,0:19:42.16,Default,Rikuya,0,0,0,,Size bağlılık yemini edemem.
+Dialogue: 0,0:19:42.92,0:19:46.66,Default,Rikuya,0,0,0,,Ancak sizden öğreneceğim \Nçok şey olduğuna inanıyorum.
+Dialogue: 0,0:19:46.66,0:19:50.91,Default,Rikuya,0,0,0,,Gücümüzü artırmak ve \NYoh Krallığı'nı yeniden kurmak için...
+Dialogue: 0,0:19:51.66,0:19:56.92,Default,Rikuya,0,0,0,,Yardımcı komutan sıfatıyla \Nsizinle birlikte çalışabilir miyim?
+Dialogue: 0,0:19:59.42,0:20:04.23,Default,Ars,0,0,0,,Hepinizi Canarre'de ağırlamaktan \Nmutluluk duyarım!
+Dialogue: 0,0:20:04.23,0:20:05.93,Default,Ars,0,0,0,,Lütfen, burada kalın!
+Dialogue: 0,0:20:07.20,0:20:08.16,Default,Rikuya,0,0,0,,Teşekkür ederim.
+Dialogue: 0,0:20:13.84,0:20:16.69,Default,Rikuya,0,0,0,,Yoh'a döneceğimiz güne kadar...
+Dialogue: 0,0:20:17.44,0:20:22.72,Default,Rikuya,0,0,0,,Gücümü ve kılıcımı \Nhizmetinize sunuyorum!
+Dialogue: 0,0:20:27.98,0:20:29.68,Default,Ars,0,0,0,,Sizinle çalışacağım için çok mutluyum!
+Dialogue: 0,0:20:33.97,0:20:35.10,Default,Rikuya,0,0,0,,İttifakımızı sabırsızlıkla bekliyorum!
+Dialogue: 0,0:20:35.10,0:20:36.10,Default,Ars,0,0,0,,Asıl ben!
+Dialogue: 0,0:20:36.10,0:20:37.42,Default,Rikuya,0,0,0,,Hayır, asıl ben!
+Dialogue: 0,0:20:37.42,0:20:39.71,Default,Ars,0,0,0,,Hayır, kesinlikle asıl ben!
+Dialogue: 0,0:20:40.07,0:20:42.34,Default,Licia,0,0,0,,Ne kadar güzel, değil mi Ars-sama?
+Dialogue: 0,0:20:42.69,0:20:45.59,Default,Ars,0,0,0,,Evet! Herkesin sağ salim olmasına çok se—
+Dialogue: 0,0:20:45.59,0:20:50.10,Main - Italics,Ars,0,0,0,,Bir dakika, haydutların patronu Vigo'ya ne oldu?
+Dialogue: 0,0:20:51.01,0:20:53.44,Flashback,Zaht,0,0,0,,Görünen o ki epey zor günler geçirmişsiniz.
+Dialogue: 0,0:20:53.44,0:20:56.27,Flashback,Zaht,0,0,0,,Licia-sama'nın ne diyeceğini \Ndüşünmek bile istemiyorum.
+Dialogue: 0,0:20:58.43,0:20:59.81,Default,Ars,0,0,0,,Ş-Şey...
+Dialogue: 0,0:20:59.81,0:21:02.44,Default,Ars,0,0,0,,Mahkûm Vigo'ya ne oldu?
+Dialogue: 0,0:21:03.00,0:21:07.03,Default,Licia,0,0,0,,Bu, sizin endişelenmeniz gereken \Nbir konu değil, Ars-sama.
+Dialogue: 0,0:21:07.03,0:21:08.58,Main - Italics,Ars,0,0,0,,S-Sakın...
+Dialogue: 0,0:21:08.58,0:21:10.79,Default,Licia,0,0,0,,Size ne yapacağımızı şaşırdık doğrusu.
+Dialogue: 0,0:21:12.59,0:21:14.25,Default,Rietz,0,0,0,,Ars-sama! Bekleyin!
+Dialogue: 0,0:21:14.93,0:21:16.00,Default,Ars,0,0,0,,Vigo!
+Dialogue: 0,0:21:19.92,0:21:22.73,Default,Ars,0,0,0,,Size işkence mi ediyor?!
+Dialogue: 0,0:21:23.22,0:21:24.05,Default,Vigo,0,0,0,,Ha?
+Dialogue: 0,0:21:25.58,0:21:27.21,Default,Licia,0,0,0,,Kesinlikle hayır.
+Dialogue: 0,0:21:27.21,0:21:31.20,Default,Licia,0,0,0,,Asla böyle barbarca bir şey yapmam.
+Dialogue: 0,0:21:31.20,0:21:34.48,Default,Licia,0,0,0,,Sadece biraz sohbet ediyoruz.
+Dialogue: 0,0:21:34.87,0:21:36.48,Default,Licia,0,0,0,,Şimdi Vigo-san...
+Dialogue: 0,0:21:36.48,0:21:38.85,Default,Licia,0,0,0,,Söylemek istediğin şey neydi?
+Dialogue: 0,0:21:38.85,0:21:40.06,Default,Vigo,0,0,0,,Emredersiniz!
+Dialogue: 0,0:21:40.06,0:21:44.38,Default,Vigo,0,0,0,,Efendim, size karşı uygunsuz \Ndavranışım için çok özür dilerim!
+Dialogue: 0,0:21:44.38,0:21:47.55,Default,Licia,0,0,0,,Aferin sana, ne kadar da uslu bir çocuk!
+Dialogue: 0,0:21:48.80,0:21:52.94,Main - Italics,Ars,0,0,0,,Licia-san gerçekten de korkunç biri!
+Dialogue: 0,0:23:25.60,0:23:29.21,Default,Ars,0,0,0,,Şey, Licia-san, o gülümsemen \Nbana biraz korkutucu geliyor...
+Dialogue: 0,0:23:29.21,0:23:33.54,Default,Licia,0,0,0,,Ars-sama, ne kadar da kabasınız! \NBu benim normal gülümsemem.
+Dialogue: 0,0:23:33.54,0:23:35.60,Default,Ars,0,0,0,,Auranızı görebiliyorum!
+Dialogue: 0,0:23:35.60,0:23:37.62,Default,Licia,0,0,0,,Yeter ki sadece aura olsun.
+Dialogue: 0,0:23:37.62,0:23:39.76,Default,Licia,0,0,0,,Gelecek bölüm: "Uzun Süredir Saklanan Hisler."
+Dialogue: 0,0:23:37.62,0:23:39.99,Default,Sign,0,0,0,,{\fad(480,1)\fs12\an3\shad1\bord1\fnTimes New Roman\b1\c&HC8CCC9&\3c&H232C28&\4c&H232C28&\fs14\pos(605,165.957)}Gelecek Bölüm   {\fs16}Uzun Süredir Saklanan Hisler
